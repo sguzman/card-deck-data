@@ -24,12 +24,12 @@
 |Exarch Maladaar|1|Minion|Draenei|6|5|6||
 |Falric|1|Minion|Undead|3|2|4||
 |Frost Strike|2|Spell|Frost|2||||
-|Frostmourne|1|Weapon||6|4|3||
+|Frostmourne|1|Weapon||6|4||3|
 |Frostwyrm's Fury|2|Spell|Frost|7||||
 |Gnome Muncher|2|Minion|Undead|6|5|6||
 |Grave Strength|2|Spell|Shadow|4||||
 |Harbinger of Winter|2|Minion|Undead|2|3|2||
-|Hematurge|2|Minion|||2|2|3||
+|Hematurge|2|Minion||2|2|3||
 |Hideous Husk|2|Minion|Undead Beast|6|3|5||
 |Horn of Winter|2|Spell|Frost|1||||
 |Infested Breath|2|Spell||2||||
@@ -43,7 +43,7 @@
 |Remoreless Winter|2|Spell|Frost|4||||
 |Sanguine Infestation|2|Spell||4||||
 |Skeletal Sidekick|2|Minion|Undead|1|1|2||
-|Soulbreaker|2|Item||3|3|2||
+|Soulbreaker|2|Item||3|3||2|
 |Stitched Giant|2|Minion|Undead|9|8|8||
 |Thassarian|1|Minion|Undead|4|3|4||
 |The Headless Horseman|1|Minion||6|||5|
