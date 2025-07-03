@@ -1,2 +1,26 @@
-|Name|Quantity|Cost|Attack|Health|
-|----|--------|----|-----|-----|
+|Name|Quantity|Category|Type|Cost|Attack|Health|
+|----|--------|----|----|------|------|
+|Horn of Winter|2|Spell|Frost|1|||
+|Baneling Barrage|1|Spell||2|||
+|Body Bagger|2|Minion|Undead|2|2|2|
+|Monstrous Mosquito|1|Minion|Beast|1|1|2|
+|Morbid Swarm|2|Spell||1|||
+|Skeletal Sidekick|2|Minion|Undead|1|1|2|
+|Battlefield Necromancer|2|Minion||2|2|2|
+|Blood Tap|2|Spell|Shadow|2|||
+|Deathchiller|2|Minion|Elemental|2|2|3|
+|Dreadhound Handler|2|Minion|Undead Pirate|2|2|1|
+|Frost Strike|2|Spell|Frost|2|||
+|Harbinger of Winter|2|Minion|Undead|2|3|2|
+|Hematurge|2|Minion|||2|2|3|
+|Infested Breath|2|Spell||2|||
+|Necrotic Mortician|2|Minion||2|2|3|
+|Poison Breath|2|Spell||2|||
+|Vampiric Blood|2|Spell||2|||
+|Acolyte of Death|2|Minion||3|2|4|
+|Anti-Magic Shell|2|Spell|Shadow|3|||
+|Asphyxiate|2|Spell|Shadow|3|||
+|Assimilating Blight|3|Spell||3|||
+|Chillfallen Baron|2|Minion|Undead Draenei|3|2|4|
+|Cremate|1|Spell|Fire|3|||
+|Death Metal Knight|2|Minion|Undead|3|3|4|
