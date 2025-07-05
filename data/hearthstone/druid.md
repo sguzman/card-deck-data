@@ -5,6 +5,7 @@
 |Best in Shell|2|Spell||6||||
 |Carrier|1|Minion|Mech|12|2|14||
 |Chia Drake|1|Minion|Dragon|4|2|4||
+|Chrono Boost|1|Spell||5||||
 |Claw|2|Spell||1||||
 |Claw|2|Spell||1||||
 |Construct Pylons|1|Spell||0||||

@@ -29,14 +29,17 @@
 |Heroic Strike|2|Spell||2||||
 |Heroic Strike|2|Spell||2||||
 |Hookfist-3000|2|Minion|Mech Pirate|3|4|3||
+|Hostile Invader|1|Minion|Demon|5|3|5||
 |I Know a Guy|2|Spell||1||||
 |Kor'kron Elite|2|Minion||4|4|3||
 |Kor'kron Elite|2|Minion||4|4|3||
 |Lab Patron|1|Minion||4|3|3||
 |Lift Off|1|Spell||4||||
+|Muensterosity|2|Minion|Elemental|9|6|9||
 |Ominous Nightmares|2|Spell|Shadow|1||||
 |Part Scrapper|1|Minion||2||||
 |Ravaging Ghoul|2|Minion|Undead|3|3|3||
+|Reserved Spot|1|Spell||3||||
 |Sanguine Depths|2|Spell||1|||3|
 |Shield Block|2|Spell||2||||
 |Shield Block|2|Spell||2||||
@@ -44,5 +47,5 @@
 |Slam|2|Spell||1||||
 |Whirlwind|2|Spell||1||||
 |Whirlwind|2|Spell||1||||
-|warsong Commander|2|Minion||3|2|3||
-|warsong Commander|2|Minion||3|2|3||
+|Warsong Commander|2|Minion||3|2|3||
+|Warsong Commander|2|Minion||3|2|3||

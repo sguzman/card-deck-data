@@ -34,7 +34,7 @@
 |Interstellar Researcher|2|Minion|Draenei|2|2|2||
 |Libram of Faith|1|Spell|Holy|6||||
 |Lifeguard|1|Minion||4|2|7||
-|Lift Off|1|Spell||4||||
+|Lift Off|2|Spell||4||||
 |Light's Justice|2|Spell||1|1||4|
 |Light's Justice|2|Spell||1|1||4|
 |Muster for Battle|2|Spell||3||||

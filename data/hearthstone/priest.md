@@ -33,7 +33,7 @@
 |Radiance|2|Spell|Holy|1||||
 |Radiance|2|Spell|Holy|1||||
 |Sauna Regular|1|Minion|Undead|5|5|5||
-|Sentry|1|Minion|Mech|2|2|2||
+|Sentry|2|Minion|Mech|2|2|2||
 |Shadow Ascendant|2|Minion|Undead|2|2|3||
 |Shadow Word: Death|2|Spell|Shadow|2||||
 |Shadow Word: Death|2|Spell|Shadow|2||||
@@ -42,7 +42,9 @@
 |Shadow Word: Ruin|2|Spell|Shadow|4||||
 |Shield of Askara|2|Spell|Draenei|6|4|8||
 |Ship's Chirurgeon|2|Minion|Dragon Pirate|1|1|2||
+|Smoldering Ascent|1|Spell|Fire|2||||
 |Spirit Guide|2|Minion|Undead|5|5|5||
 |Thrive in the Shadows|2|Spell|Shadow|2||||
 |Twilight Mender (not yet released)|1|Minion||3||||
 |Void Shard|2|Spell|Shadow|4||||
+|Weaver of the Cycle|1|Minion||3|3|3||
