@@ -1,0 +1,237 @@
+[
+  {
+    "id": {
+      "art": 1006,
+      "card": 202140,
+      "audio": 1730
+    },
+    "attributes": {
+      "set": "NonOwnable",
+      "type": "Stratagem",
+      "armor": 0,
+      "color": "Gold",
+      "power": 0,
+      "reach": 0,
+      "artist": "Manuel Castañón",
+      "rarity": "Legendary",
+      "faction": "Neutral",
+      "related": "",
+      "provision": 0,
+      "factionSecondary": ""
+    },
+    "name": "Tactical Advantage",
+    "category": "",
+    "ability": "Order: Boost an allied unit by 5.\n",
+    "ability_html": "<span class=\"keyword order\">Order</span>: Boost an allied unit by 5.\n",
+    "keyword_html": "<span class=\"keyword\">Order:</span> An ability triggered manually by the player. Cards with Order cannot be used for 1 turn after being placed on the battlefield.",
+    "flavor": "Remember, cadets! He who first draws his blade has the advantage over his foe!"
+  },{
+    "id": {
+      "art": 1009,
+      "card": 112103,
+      "audio": 1005
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Gold",
+      "power": 3,
+      "reach": 0,
+      "artist": "Marek Madej",
+      "rarity": "Legendary",
+      "faction": "Neutral",
+      "related": "",
+      "provision": 10,
+      "factionSecondary": ""
+    },
+    "name": "Geralt of Rivia",
+    "category": "Witcher",
+    "ability": "Deploy: Destroy an enemy unit with 9 or more power.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span>: Destroy an enemy unit with 9 or more power.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.",
+    "flavor": "If that's what it takes to save the world, it's better to let that world die."
+  },{
+    "id": {
+      "art": 1333,
+      "card": 200022,
+      "audio": 1355
+    },
+    "attributes": {
+      "set": "BaseSet",
+      "type": "Artifact",
+      "armor": 0,
+      "color": "Gold",
+      "power": 0,
+      "reach": 0,
+      "artist": "Nemanja Stankovic",
+      "rarity": "Epic",
+      "faction": "Neutral",
+      "related": "",
+      "provision": 8,
+      "factionSecondary": ""
+    },
+    "name": "Summoning Circle",
+    "category": "Spell",
+    "ability": "Resilience.\nDeploy: Look at the units in your deck in order from top to bottom, then choose a unit from your deck and set the Counter equal to that unit's provision cost.\nBefore the end of your turn, remove a Counter from self for each adjacent unit. When the Counter reaches 0, Summon the chosen unit from your deck to this row and destroy self.\n",
+    "ability_html": "<span class=\"keyword resilient\">Resilience</span>.\n<span class=\"keyword deploy\">Deploy</span>: Look at the units in your deck in order from top to bottom, then choose a unit from your deck and set the Counter equal to that unit's provision cost.\nBefore the end of your turn, remove a Counter from self for each adjacent unit. When the Counter reaches 0, <span class=\"keyword summon\">Summon</span> the chosen unit from your deck to this row and destroy self.\n",
+    "keyword_html": "<span class=\"keyword\">Resilience:</span> Status that allows a unit to remain on the battlefield at the end of the round, then disappears.\\nNote: Boost and Armor are not carried over to the next round.\n <span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Summon:</span> Move automatically to the battlefield (not considered played).",
+    "flavor": "There exist a great many realities outside our own… With the right knowledge, one can contact them and summon beings beyond human fathoming."
+  },{
+    "id": {
+      "art": 1930,
+      "card": 202406,
+      "audio": 1919
+    },
+    "attributes": {
+      "set": "Iron Judgment",
+      "type": "Special",
+      "armor": 0,
+      "color": "Gold",
+      "power": 0,
+      "reach": 0,
+      "artist": "Christof Grobelski",
+      "rarity": "Epic",
+      "faction": "Neutral",
+      "related": "",
+      "provision": 7,
+      "factionSecondary": ""
+    },
+    "name": "Surrender",
+    "category": "Tactic",
+    "ability": "Remove 2 Armor from all units on a row and damage them by 2.\n",
+    "ability_html": "Remove 2 <span class=\"keyword armor\">Armor</span> from all units on a row and damage them by 2.\n",
+    "keyword_html": "<span class=\"keyword\">Armor:</span> Protects the unit from damage. This value doesn't count towards your score and/or the unit's power.",
+    "flavor": "There's no shame in waving the white flag."
+  },{
+    "id": {
+      "art": 1390,
+      "card": 200087,
+      "audio": 1327
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Gold",
+      "power": 6,
+      "reach": 0,
+      "artist": "Grafit Studio",
+      "rarity": "Epic",
+      "faction": "Neutral",
+      "related": "",
+      "provision": 6,
+      "factionSecondary": ""
+    },
+    "name": "Dorregaray of Vole",
+    "category": "Human, Mage",
+    "ability": "Deploy: Lock a unit.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span>: <span class=\"keyword lock\">Lock</span> a unit.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Lock:</span> Status that disables a unit's abilities.",
+    "flavor": "Like the witchers, Dorregaray is a monster aficionado, though he's developed his own classification system. Instead of dividing them into necrophages, ogroids and the like, he just thinks they're all wonderful."
+  },{
+    "id": {
+      "art": 1281,
+      "card": 153301,
+      "audio": 1247
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Special",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 0,
+      "reach": 0,
+      "artist": "Anna Podedworna",
+      "rarity": "Common",
+      "faction": "Neutral",
+      "related": "",
+      "provision": 6,
+      "factionSecondary": ""
+    },
+    "name": "Lacerate",
+    "category": "Organic",
+    "ability": "Damage all units on a row by 2.\n",
+    "ability_html": "Damage all units on a row by 2.\n",
+    "keyword_html": "",
+    "flavor": "A sight more horrid you've never seen… The poor soul lay shredded as the beast lapped up its blood from the ground all around."
+  },{
+    "id": {
+      "art": 1051,
+      "card": 113301,
+      "audio": 1242
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Special",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 0,
+      "reach": 0,
+      "artist": "Lorenzo Mastroianni",
+      "rarity": "Common",
+      "faction": "Neutral",
+      "related": "",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "Alzur's Thunder",
+    "category": "Spell",
+    "ability": "Damage a unit by 5.\n",
+    "ability_html": "Damage a unit by 5.\n",
+    "keyword_html": "",
+    "flavor": "We stand not the slightest chance of incanting a spell so complex as Alzur's Thunder. It is claimed Alzur had a voice like a hunting horn and the diction of a master orator."
+  },{
+    "id": {
+      "art": 1060,
+      "card": 113311,
+      "audio": 1283
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Artifact",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 0,
+      "reach": 0,
+      "artist": "Anna Podedworna",
+      "rarity": "Common",
+      "faction": "Neutral",
+      "related": "",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "Thunderbolt",
+    "category": "Alchemy",
+    "ability": "Deploy: Boost an allied unit by 3.\nOrder: Boost an allied unit by 3.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span>: Boost an allied unit by 3.\n<span class=\"keyword order\">Order</span>: Boost an allied unit by 3.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Order:</span> An ability triggered manually by the player. Cards with Order cannot be used for 1 turn after being placed on the battlefield.",
+    "flavor": "The witcher's face changed… his mien turning inhuman, horrifying."
+  },{
+    "id": {
+      "art": 1278,
+      "card": 152405,
+      "audio": 1196
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 5,
+      "reach": 0,
+      "artist": "Alicja Użarowska",
+      "rarity": "Common",
+      "faction": "Neutral",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Elder Bear",
+    "category": "Beast",
+    "ability": "No ability.\n",
+    "ability_html": "No ability.\n",
+    "keyword_html": "",
+    "flavor": "We're going on a bear hunt! We're going to catch a–– THAT THING'S HUGE! RUN!"
+  }
+]

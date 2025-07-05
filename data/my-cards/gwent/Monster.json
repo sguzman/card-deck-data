@@ -1,0 +1,497 @@
+[
+  {
+    "id": {
+      "art": 1376,
+      "card": 200073,
+      "audio": 1447
+    },
+    "attributes": {
+      "set": "BaseSet",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Gold",
+      "power": 7,
+      "reach": 0,
+      "artist": "Bartłomiej Gaweł",
+      "rarity": "Epic",
+      "faction": "Monster",
+      "related": "",
+      "provision": 9,
+      "factionSecondary": ""
+    },
+    "name": "Adda: Striga",
+    "category": "Beast, Cursed",
+    "ability": "Zeal. Order (Predator): Consume a Token. If it was allied, double the boost from it.\n",
+    "ability_html": "<span class=\"keyword zeal\">Zeal</span>. <span class=\"keyword order\">Order</span> (<span class=\"keyword predator\">Predator</span>): Consume a Token. If it was allied, double the boost from it.\n",
+    "keyword_html": "<span class=\"keyword\">Zeal:</span> An Order ability can be used on the same turn the card is placed on the battlefield.\n <span class=\"keyword\">Order:</span> An ability triggered manually by the player. Cards with Order cannot be used for 1 turn after being placed on the battlefield.\n <span class=\"keyword\">Predator:</span> This ability can only target units with power lower than own.",
+    "flavor": "And the striga's doin' fine. Sure, she takes a bite outta someone from time to time, but you get used to that."
+  },{
+    "id": {
+      "art": 1151,
+      "card": 132214,
+      "audio": 1138
+    },
+    "attributes": {
+      "set": "BaseSet",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Gold",
+      "power": 6,
+      "reach": 0,
+      "artist": "Marta Dettlaff",
+      "rarity": "Epic",
+      "faction": "Monster",
+      "related": "",
+      "provision": 8,
+      "factionSecondary": ""
+    },
+    "name": "Nithral",
+    "category": "Elf, Wild Hunt, Warrior",
+    "ability": "Order (Melee): Damage a unit by 1.\nDominance: Damage by 2 instead.\nCooldown: 1\n",
+    "ability_html": "<span class=\"keyword order\">Order</span> (<span class=\"keyword melee\">Melee</span>): Damage a unit by 1.\n<span class=\"keyword dominance\">Dominance</span>: Damage by 2 instead.\n<span class=\"keyword cooldown\">Cooldown</span>: 1\n",
+    "keyword_html": "<span class=\"keyword\">Order:</span> An ability triggered manually by the player. Cards with Order cannot be used for 1 turn after being placed on the battlefield.\n <span class=\"keyword\">Melee:</span> This ability can only be used while on the melee row.\n <span class=\"keyword\">Dominance:</span> Trigger this ability if you control the highest unit on the battlefield.\n <span class=\"keyword\">Cooldown:</span> The number of turns before an Order or Fee ability can be reused.",
+    "flavor": "Each Wild Hunt warrior has gone through a rigorous selection process, but Eredin's personal cavalcade includes only the most brutal and most ferocious of the Aen Elle."
+  },{
+    "id": {
+      "art": 1419,
+      "card": 200114,
+      "audio": 1448
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Gold",
+      "power": 4,
+      "reach": 0,
+      "artist": "Bartłomiej Gaweł",
+      "rarity": "Epic",
+      "faction": "Monster",
+      "related": "",
+      "provision": 8,
+      "factionSecondary": ""
+    },
+    "name": "Alpha Werewolf",
+    "category": "Beast, Cursed",
+    "ability": "Deploy (Melee): Boost a Beast in your hand by the number of cards in your hand.\nDeploy (Ranged): Boost all allied Beasts by 1.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span> (<span class=\"keyword melee\">Melee</span>): Boost a Beast in your hand by the number of cards in your hand.\n<span class=\"keyword deploy\">Deploy</span> (<span class=\"keyword ranged\">Ranged</span>): Boost all allied Beasts by 1.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Melee:</span> This ability can only be used while on the melee row.\n <span class=\"keyword\">Ranged:</span> This ability can only be used while on the ranged row.",
+    "flavor": "The most ferocious among these cursed are not even deterred by silver and alchemy's fiery pains."
+  },{
+    "id": {
+      "art": 1634,
+      "card": 201698,
+      "audio": 1442
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Gold",
+      "power": 1,
+      "reach": 0,
+      "artist": "Bartłomiej Gaweł",
+      "rarity": "Epic",
+      "faction": "Monster",
+      "related": "",
+      "provision": 8,
+      "factionSecondary": ""
+    },
+    "name": "Ozzrel",
+    "category": "Necrophage",
+    "ability": "Deploy (Melee): Consume a unit from your opponent's graveyard.\nDeploy (Ranged): Consume a unit from your graveyard.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span> (<span class=\"keyword melee\">Melee</span>): <span class=\"keyword consume\">Consume</span> a unit from your opponent's graveyard.\n<span class=\"keyword deploy\">Deploy</span> (<span class=\"keyword ranged\">Ranged</span>): <span class=\"keyword consume\">Consume</span> a unit from your graveyard.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Melee:</span> This ability can only be used while on the melee row.\n <span class=\"keyword\">Consume:</span> Destroy a unit and boost self by its power. If target is in the graveyard, Banish it instead.\n <span class=\"keyword\">Ranged:</span> This ability can only be used while on the ranged row.",
+    "flavor": "Some necrophages have taken such a liking to human flesh, they no longer are content to merely dig up corpses..."
+  },{
+    "id": {
+      "art": 1155,
+      "card": 132218,
+      "audio": 1143
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 2,
+      "color": "Gold",
+      "power": 6,
+      "reach": 0,
+      "artist": "Bryan Sola",
+      "rarity": "Epic",
+      "faction": "Monster",
+      "related": "132408",
+      "provision": 6,
+      "factionSecondary": ""
+    },
+    "name": "Old Speartip: Asleep",
+    "category": "Ogroid",
+    "ability": "Timer 3: Summon Old Speartip from your deck to this row and increase its base power by 6, then Banish self.\nIf Old Speartip: Asleep takes damage, Summon Old Speartip from your deck, then Banish self instead.\n",
+    "ability_html": "<span class=\"keyword timer\">Timer</span> 3: <span class=\"keyword summon\">Summon</span> Old Speartip from your deck to this row and increase its base power by 6, then <span class=\"keyword banish\">Banish</span> self.\nIf Old Speartip: Asleep takes damage, <span class=\"keyword summon\">Summon</span> Old Speartip from your deck, then <span class=\"keyword banish\">Banish</span> self instead.\n",
+    "keyword_html": "<span class=\"keyword\">Timer:</span> Before the end of your turn, lower the number by 1. When the number reaches 0, trigger the ability.\n <span class=\"keyword\">Summon:</span> Move automatically to the battlefield (not considered played).\n <span class=\"keyword\">Banish:</span> Remove from the game. Note: Does not count as being destroyed.",
+    "flavor": "Do not disturb."
+  },{
+    "id": {
+      "art": 1140,
+      "card": 132203,
+      "audio": 1190
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Gold",
+      "power": 4,
+      "reach": 0,
+      "artist": "Adrian Smith",
+      "rarity": "Epic",
+      "faction": "Monster",
+      "related": "",
+      "provision": 6,
+      "factionSecondary": ""
+    },
+    "name": "Abaya",
+    "category": "Necrophage",
+    "ability": "Thrive. \nDeploy: Trigger an allied unit's Deathwish ability.\n",
+    "ability_html": "<span class=\"keyword thrive\">Thrive</span>. \n<span class=\"keyword deploy\">Deploy</span>: Trigger an allied unit's <span class=\"keyword deathwish\">Deathwish</span> ability.\n",
+    "keyword_html": "<b><span class=\"keyword\">Thrive:</span></b> Boost this unit by 1 or the specified amount whenever you play a unit with higher power.\n <span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Deathwish:</span> Trigger this ability when destroyed and moved from the battlefield to the graveyard. Note: Banished units are not sent to the graveyard.",
+    "flavor": "Seen a lot o' ugly critters in me life – morays, lampreys, blobfish… But never nothin' like this!"
+  },{
+    "id": {
+      "art": 2192,
+      "card": 202610,
+      "audio": 2098
+    },
+    "attributes": {
+      "set": "Master Mirror",
+      "type": "Special",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 0,
+      "reach": 0,
+      "artist": "Maciej Łaszkiewicz",
+      "rarity": "Rare",
+      "faction": "Monster",
+      "related": "202703, 203125, 202704",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "Red Riders",
+    "category": "Wild Hunt",
+    "ability": "Choose one:\nSpawn Frost on an enemy row for 4 turns.\nSpawn Frost on an enemy row for 2 turns, then replay a bronze Wild Hunt unit.\nSpawn Frost on both enemy rows for 2 turns.\n",
+    "ability_html": "Choose one:\n<span class=\"keyword spawn\">Spawn</span> <span class=\"keyword frost\">Frost</span> on an enemy row for 4 turns.\n<span class=\"keyword spawn\">Spawn</span> <span class=\"keyword frost\">Frost</span> on an enemy row for 2 turns, then replay a bronze Wild Hunt unit.\n<span class=\"keyword spawn\">Spawn</span> <span class=\"keyword frost\">Frost</span> on both enemy rows for 2 turns.\n",
+    "keyword_html": "<span class=\"keyword\">Spawn:</span> Add a card to the game.\n <span class=\"keyword\">Frost:</span> At the start of the owner's turn, damage the highest power unit in this row by 2.",
+    "flavor": "They paint the sky with snow and the earth with fire."
+  },{
+    "id": {
+      "art": 1149,
+      "card": 132212,
+      "audio": 1030
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 7,
+      "reach": 0,
+      "artist": "Bartłomiej Gaweł",
+      "rarity": "Common",
+      "faction": "Monster",
+      "related": "",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "Ice Giant",
+    "category": "Ogroid",
+    "ability": "No ability.\n",
+    "ability_html": "No ability.\n",
+    "keyword_html": "",
+    "flavor": "Fled one time in my life. From the Ice Giant. And I'm not a bit ashamed."
+  },{
+    "id": {
+      "art": 2195,
+      "card": 202611,
+      "audio": 2024
+    },
+    "attributes": {
+      "set": "Master Mirror",
+      "type": "Unit",
+      "armor": 1,
+      "color": "Bronze",
+      "power": 5,
+      "reach": 0,
+      "artist": "Anton Nazarenko",
+      "rarity": "Rare",
+      "faction": "Monster",
+      "related": "",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "Wild Hunt Bruiser",
+    "category": "Elf, Wild Hunt",
+    "ability": "Deploy: Move an enemy unit to the other row. If the target moves to a row affected by Frost, damage it by 2.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span>: Move an enemy unit to the other row. If the target moves to a row affected by <span class=\"keyword frost\">Frost</span>, damage it by 2.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Frost:</span> At the start of the owner's turn, damage the highest power unit in this row by 2.",
+    "flavor": "He considers it an excellent joke - to split the skulls of the living with the skulls of the dead."
+  },{
+    "id": {
+      "art": 1174,
+      "card": 132316,
+      "audio": 1291
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 3,
+      "reach": 0,
+      "artist": "Grafit Studio",
+      "rarity": "Rare",
+      "faction": "Monster",
+      "related": "132315",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "Harpy Egg",
+    "category": "Beast",
+    "ability": "Deathwish: Spawn a Harpy on this row.\n",
+    "ability_html": "<span class=\"keyword deathwish\">Deathwish</span>: <span class=\"keyword spawn\">Spawn</span> a Harpy on this row.\n",
+    "keyword_html": "<span class=\"keyword\">Deathwish:</span> Trigger this ability when destroyed and moved from the battlefield to the graveyard. Note: Banished units are not sent to the graveyard.\n <span class=\"keyword\">Spawn:</span> Add a card to the game.",
+    "flavor": "A harpy egg omelet - a delicious delicacy, good sir. Quite dear, too, for as you might surmise, the wretches don't part with their eggs willingly."
+  },{
+    "id": {
+      "art": 1163,
+      "card": 132306,
+      "audio": 1038
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 2,
+      "reach": 0,
+      "artist": "Adrian Smith",
+      "rarity": "Common",
+      "faction": "Monster",
+      "related": "",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "Ghoul",
+    "category": "Necrophage",
+    "ability": "Deploy (Melee): Consume a bronze unit in your graveyard.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span> (<span class=\"keyword melee\">Melee</span>): <span class=\"keyword consume\">Consume</span> a bronze unit in your graveyard.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Melee:</span> This ability can only be used while on the melee row.\n <span class=\"keyword\">Consume:</span> Destroy a unit and boost self by its power. If target is in the graveyard, Banish it instead.",
+    "flavor": "If ghouls are part of the Circle of Life… then it's one vicious circle."
+  },{
+    "id": {
+      "art": 2193,
+      "card": 202612,
+      "audio": 2097
+    },
+    "attributes": {
+      "set": "Master Mirror",
+      "type": "Unit",
+      "armor": 1,
+      "color": "Bronze",
+      "power": 1,
+      "reach": 0,
+      "artist": "Anton Nazarenko",
+      "rarity": "Rare",
+      "faction": "Monster",
+      "related": "",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "Naglfar Crew",
+    "category": "Elf, Wild Hunt",
+    "ability": "Deploy: Spawn Frost on an enemy row for 2 turns.\nAt the end of your turn, if there is Frost on the opposite row, boost self by 1.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span>: <span class=\"keyword spawn\">Spawn</span> <span class=\"keyword frost\">Frost</span> on an enemy row for 2 turns.\nAt the end of your turn, if there is <span class=\"keyword frost\">Frost</span> on the opposite row, boost self by 1.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Spawn:</span> Add a card to the game.\n <span class=\"keyword\">Frost:</span> At the start of the owner's turn, damage the highest power unit in this row by 2.",
+    "flavor": "Humans don’t know what powers the Naglfar. What is the source of its magic? For those that discover the truth... Well, it’s already too late for them."
+  },{
+    "id": {
+      "art": 2194,
+      "card": 202613,
+      "audio": 2096
+    },
+    "attributes": {
+      "set": "Master Mirror",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 5,
+      "reach": 0,
+      "artist": "Karol Bem",
+      "rarity": "Common",
+      "faction": "Monster",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Naglfar Taskmaster",
+    "category": "Elf, Wild Hunt",
+    "ability": "Deploy: Purify an enemy unit.\nDominance: Purify any unit instead.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span>: <span class=\"keyword purify\">Purify</span> an enemy unit.\n<span class=\"keyword dominance\">Dominance</span>: <span class=\"keyword purify\">Purify</span> any unit instead.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Purify:</span> Remove all statuses.\n <span class=\"keyword\">Dominance:</span> Trigger this ability if you control the highest unit on the battlefield.",
+    "flavor": "She ensures the ship is sustained by squeezing the life essence from those insignificant human vermin."
+  },{
+    "id": {
+      "art": 1168,
+      "card": 132310,
+      "audio": 1220
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "Marek Madej",
+      "rarity": "Rare",
+      "faction": "Monster",
+      "related": "132310",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Wild Hunt Rider",
+    "category": "Elf, Wild Hunt, Warrior",
+    "ability": "Deploy (Dominance): Summon all copies of self from your deck to this row.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span> (<span class=\"keyword dominance\">Dominance</span>): <span class=\"keyword summon\">Summon</span> all copies of self from your deck to this row.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Dominance:</span> Trigger this ability if you control the highest unit on the battlefield.\n <span class=\"keyword\">Summon:</span> Move automatically to the battlefield (not considered played).",
+    "flavor": "First the buffalo horns atop their helms penetrate one's view, then the crest betwixt them, and finally the skull–like face exposed beneath their visors."
+  },{
+    "id": {
+      "art": 1175,
+      "card": 132402,
+      "audio": 1043
+    },
+    "attributes": {
+      "set": "BaseSet",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "Marek Madej",
+      "rarity": "Common",
+      "faction": "Monster",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Wild Hunt Hound",
+    "category": "Beast, Wild Hunt",
+    "ability": "Dominance: At the end of your turn, boost self by 1.\n",
+    "ability_html": "<span class=\"keyword dominance\">Dominance</span>: At the end of your turn, boost self by 1.\n",
+    "keyword_html": "<span class=\"keyword\">Dominance:</span> Trigger this ability if you control the highest unit on the battlefield.",
+    "flavor": "Cry 'Havoc!', and let slip the dogs of war."
+  },{
+    "id": {
+      "art": 1342,
+      "card": 200038,
+      "audio": 1339
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "Anna Podedworna",
+      "rarity": "Common",
+      "faction": "Monster",
+      "related": "200038",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Archespore",
+    "category": "Plant, Cursed",
+    "ability": "Deathwish: Summon all copies of self from your deck to this row.\n",
+    "ability_html": "<span class=\"keyword deathwish\">Deathwish</span>: <span class=\"keyword summon\">Summon</span> all copies of self from your deck to this row.\n",
+    "keyword_html": "<span class=\"keyword\">Deathwish:</span> Trigger this ability when destroyed and moved from the battlefield to the graveyard. Note: Banished units are not sent to the graveyard.\n <span class=\"keyword\">Summon:</span> Move automatically to the battlefield (not considered played).",
+    "flavor": "Folklore claims they sprout from soil watered with the blood of the dying. Thus they flourish in grounds consecrated by pogroms, dark rituals or brutal murders."
+  },{
+    "id": {
+      "art": 1166,
+      "card": 132309,
+      "audio": 1149
+    },
+    "attributes": {
+      "set": "BaseSet",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 3,
+      "reach": 0,
+      "artist": "Marta Dettlaff",
+      "rarity": "Common",
+      "faction": "Monster",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Wild Hunt Warrior",
+    "category": "Elf, Wild Hunt, Warrior",
+    "ability": "Deploy: Damage an enemy unit by 2.\nDominance: Also Spawn Frost on its row for 1 turn.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span>: Damage an enemy unit by 2.\n<span class=\"keyword dominance\">Dominance</span>: Also <span class=\"keyword spawn\">Spawn</span> <span class=\"keyword frost\">Frost</span> on its row for 1 turn.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Dominance:</span> Trigger this ability if you control the highest unit on the battlefield.\n <span class=\"keyword\">Spawn:</span> Add a card to the game.\n <span class=\"keyword\">Frost:</span> At the start of the owner's turn, damage the highest power unit in this row by 2.",
+    "flavor": "The White Frost is coming."
+  },{
+    "id": {
+      "art": 1334,
+      "card": 200026,
+      "audio": 1331
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 3,
+      "reach": 0,
+      "artist": "Diego de Almeida Peres",
+      "rarity": "Common",
+      "faction": "Monster",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Wild Hunt Navigator",
+    "category": "Elf, Wild Hunt, Mage",
+    "ability": "Deploy: Boost an allied unit by the duration of Frost on its opposite row.\nDominance: Boost by the total duration of Frost on your opponent's side instead.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span>: Boost an allied unit by the duration of <span class=\"keyword frost\">Frost</span> on its opposite row.\n<span class=\"keyword dominance\">Dominance</span>: Boost by the total duration of <span class=\"keyword frost\">Frost</span> on your opponent's side instead.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Frost:</span> At the start of the owner's turn, damage the highest power unit in this row by 2.\n <span class=\"keyword\">Dominance:</span> Trigger this ability if you control the highest unit on the battlefield.",
+    "flavor": "For hundreds of years, Avallac'h tried to recreate the Elder Blood gene through back breeding - yet the elven children thus fostered were but dim sparks compared to Lara's flame."
+  },{
+    "id": {
+      "art": 1162,
+      "card": 132305,
+      "audio": 1037
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 1,
+      "reach": 0,
+      "artist": "Katarzyna Redesiuk",
+      "rarity": "Rare",
+      "faction": "Monster",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Nekker",
+    "category": "Ogroid",
+    "ability": "Thrive. \nDeploy: Spawn a base copy of self on this row.\n",
+    "ability_html": "<span class=\"keyword thrive\">Thrive</span>. \n<span class=\"keyword deploy\">Deploy</span>: <span class=\"keyword spawn\">Spawn</span> a base copy of self on this row.\n",
+    "keyword_html": "<b><span class=\"keyword\">Thrive:</span></b> Boost this unit by 1 or the specified amount whenever you play a unit with higher power.\n <span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Spawn:</span> Add a card to the game.",
+    "flavor": "These little guys are almost cute, if you ignore the whole vicious killer aspect."
+  }
+]

@@ -1,0 +1,549 @@
+[
+  {
+    "id": {
+      "art": 1237,
+      "card": 152106,
+      "audio": 1052
+    },
+    "attributes": {
+      "set": "BaseSet",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Gold",
+      "power": 4,
+      "reach": 0,
+      "artist": "Grafit Studio",
+      "rarity": "Legendary",
+      "faction": "Skellige",
+      "related": "",
+      "provision": 8,
+      "factionSecondary": ""
+    },
+    "name": "Madman Lugos",
+    "category": "Human, Warrior",
+    "ability": "Deploy (Melee): Damage an enemy unit by twice the number of damaged enemies.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span> (<span class=\"keyword melee\">Melee</span>): Damage an enemy unit by twice the number of damaged enemies.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Melee:</span> This ability can only be used while on the melee row.",
+    "flavor": "WAAAAAAAAAAGH!!!!"
+  },{
+    "id": {
+      "art": 1251,
+      "card": 152213,
+      "audio": 1058
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Gold",
+      "power": 3,
+      "reach": 0,
+      "artist": "Grafit Studio",
+      "rarity": "Epic",
+      "faction": "Skellige",
+      "related": "",
+      "provision": 8,
+      "factionSecondary": ""
+    },
+    "name": "Svanrige Tuirseach",
+    "category": "Human, Warrior",
+    "ability": "Deploy: Boost self by the base power of the last non-Neutral unit that went to your graveyard this round.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span>: Boost self by the base power of the last non-Neutral unit that went to your graveyard this round.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.",
+    "flavor": "The emperor also thought him an accidental king. At first."
+  },{
+    "id": {
+      "art": 1243,
+      "card": 152204,
+      "audio": 1049
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Gold",
+      "power": 5,
+      "reach": 0,
+      "artist": "Grafit Studio",
+      "rarity": "Epic",
+      "faction": "Skellige",
+      "related": "",
+      "provision": 7,
+      "factionSecondary": ""
+    },
+    "name": "Donar an Hindar",
+    "category": "Human, Warrior",
+    "ability": "Deploy: Damage an enemy unit by 2.\nBloodthirst 2: Damage an enemy unit by 4 instead.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span>: Damage an enemy unit by 2.\n<span class=\"keyword bloodthirst\">Bloodthirst</span> 2: Damage an enemy unit by 4 instead.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Bloodthirst:</span> Number of damaged enemy units required to trigger this ability.",
+    "flavor": "I've gathered all the jarls together. Now make your case."
+  },{
+    "id": {
+      "art": 1462,
+      "card": 200212,
+      "audio": 1231
+    },
+    "attributes": {
+      "set": "BaseSet",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Gold",
+      "power": 10,
+      "reach": 0,
+      "artist": "Bruno Biazotto",
+      "rarity": "Epic",
+      "faction": "Skellige",
+      "related": "",
+      "provision": 6,
+      "factionSecondary": ""
+    },
+    "name": "Skjall",
+    "category": "Human, Warrior",
+    "ability": "Berserk 5: Destroy self.\n",
+    "ability_html": "<span class=\"keyword berserk\">Berserk</span> 5: Destroy self.\n",
+    "keyword_html": "<span class=\"keyword\">Berserk:</span> Trigger this ability whenever power is equal to or lower than the specified amount.",
+    "flavor": "Strike his name from the Saga of Elders! No one dare grant him shelter or sustenance!"
+  },{
+    "id": {
+      "art": 1252,
+      "card": 152214,
+      "audio": 1062
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Gold",
+      "power": 6,
+      "reach": 0,
+      "artist": "Grafit Studio",
+      "rarity": "Epic",
+      "faction": "Skellige",
+      "related": "",
+      "provision": 6,
+      "factionSecondary": ""
+    },
+    "name": "Udalryk an Brokvar",
+    "category": "Human, Cursed, Warrior",
+    "ability": "Order (Berserk 7): Set an enemy unit's power to match own power.\n",
+    "ability_html": "<span class=\"keyword order\">Order</span> (<span class=\"keyword berserk\">Berserk</span> 7): Set an enemy unit's power to match own power.\n",
+    "keyword_html": "<span class=\"keyword\">Order:</span> An ability triggered manually by the player. Cards with Order cannot be used for 1 turn after being placed on the battlefield.\n <span class=\"keyword\">Berserk:</span> Trigger this ability whenever power is equal to or lower than the specified amount.",
+    "flavor": "The gods have spoken: a sacrifice is required."
+  },{
+    "id": {
+      "art": 1612,
+      "card": 201623,
+      "audio": 1462
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Gold",
+      "power": 4,
+      "reach": 0,
+      "artist": "Bogna Gawrońska",
+      "rarity": "Epic",
+      "faction": "Skellige",
+      "related": "",
+      "provision": 6,
+      "factionSecondary": ""
+    },
+    "name": "Giant Boar",
+    "category": "Beast",
+    "ability": "Deploy (Melee): Boost self by 1 for each damaged unit.\nDeploy (Ranged): Boost self by the amount a unit is damaged.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span> (<span class=\"keyword melee\">Melee</span>): Boost self by 1 for each damaged unit.\n<span class=\"keyword deploy\">Deploy</span> (<span class=\"keyword ranged\">Ranged</span>): Boost self by the amount a unit is damaged.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Melee:</span> This ability can only be used while on the melee row.\n <span class=\"keyword\">Ranged:</span> This ability can only be used while on the ranged row.",
+    "flavor": "Most men, seeing a massive boar in the woods, mess their trousers and scurry up the nearest tree. A Skelliger, though - he just drools."
+  },{
+    "id": {
+      "art": 2240,
+      "card": 202624,
+      "audio": 2086
+    },
+    "attributes": {
+      "set": "Master Mirror",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "Oleksandr Kozachenko",
+      "rarity": "Rare",
+      "faction": "Skellige",
+      "related": "",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "An Craite Raiders",
+    "category": "Human, Pirate, Warrior",
+    "ability": "Veteran.\nDeploy (Bloodthirst 3): Gain Zeal.\nOrder: Damage a unit by 2.\n",
+    "ability_html": "<span class=\"keyword veteran\">Veteran</span>.\n<span class=\"keyword deploy\">Deploy</span> (<span class=\"keyword bloodthirst\">Bloodthirst</span> 3): Gain <span class=\"keyword zeal\">Zeal</span>.\n<span class=\"keyword order\">Order</span>: Damage a unit by 2.\n",
+    "keyword_html": "<span class=\"keyword\">Veteran:</span> At the start of the second and third round, increase the base power of this unit by 1.\n <span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Bloodthirst:</span> Number of damaged enemy units required to trigger this ability.\n <span class=\"keyword\">Zeal:</span> An Order ability can be used on the same turn the card is placed on the battlefield.\n <span class=\"keyword\">Order:</span> An ability triggered manually by the player. Cards with Order cannot be used for 1 turn after being placed on the battlefield.",
+    "flavor": "Cabbage, really? It’s just the worst when there’s nothing good to plunder."
+  },{
+    "id": {
+      "art": 1264,
+      "card": 152310,
+      "audio": 1076
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Special",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 0,
+      "reach": 0,
+      "artist": "Anna Podedworna, Bartłomiej Gaweł",
+      "rarity": "Common",
+      "faction": "Skellige",
+      "related": "",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "Freya's Blessing",
+    "category": "Alchemy",
+    "ability": "Play a bronze non-Neutral unit from your graveyard and give it Doomed.\n",
+    "ability_html": "Play a bronze non-Neutral unit from your graveyard and give it <span class=\"keyword doomed\">Doomed</span>.\n",
+    "keyword_html": "<span class=\"keyword\">Doomed:</span> Status that removes the card from the game after it leaves the battlefield.",
+    "flavor": "Modron Freya, the Great Mother, is the goddess of love, beauty and bounty."
+  },{
+    "id": {
+      "art": 1268,
+      "card": 152314,
+      "audio": 1198
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 1,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "Grafit Studio",
+      "rarity": "Rare",
+      "faction": "Skellige",
+      "related": "",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "An Craite Longship",
+    "category": "Machine, Ship",
+    "ability": "Melee: Whenever your opponent plays a unit on their side of the battlefield, damage it by 1.\n",
+    "ability_html": "<span class=\"keyword melee\">Melee</span>: Whenever your opponent plays a unit on their side of the battlefield, damage it by 1.\n",
+    "keyword_html": "<span class=\"keyword\">Melee:</span> This ability can only be used while on the melee row.",
+    "flavor": "They say Hemdall's heart swells whenever the longships sail out on a raid."
+  },{
+    "id": {
+      "art": 2240,
+      "card": 202624,
+      "audio": 2086
+    },
+    "attributes": {
+      "set": "Master Mirror",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "Oleksandr Kozachenko",
+      "rarity": "Rare",
+      "faction": "Skellige",
+      "related": "",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "An Craite Raiders",
+    "category": "Human, Pirate, Warrior",
+    "ability": "Veteran.\nDeploy (Bloodthirst 3): Gain Zeal.\nOrder: Damage a unit by 2.\n",
+    "ability_html": "<span class=\"keyword veteran\">Veteran</span>.\n<span class=\"keyword deploy\">Deploy</span> (<span class=\"keyword bloodthirst\">Bloodthirst</span> 3): Gain <span class=\"keyword zeal\">Zeal</span>.\n<span class=\"keyword order\">Order</span>: Damage a unit by 2.\n",
+    "keyword_html": "<span class=\"keyword\">Veteran:</span> At the start of the second and third round, increase the base power of this unit by 1.\n <span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Bloodthirst:</span> Number of damaged enemy units required to trigger this ability.\n <span class=\"keyword\">Zeal:</span> An Order ability can be used on the same turn the card is placed on the battlefield.\n <span class=\"keyword\">Order:</span> An ability triggered manually by the player. Cards with Order cannot be used for 1 turn after being placed on the battlefield.",
+    "flavor": "Cabbage, really? It’s just the worst when there’s nothing good to plunder."
+  },{
+    "id": {
+      "art": 1270,
+      "card": 152316,
+      "audio": 1065
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Special",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 0,
+      "reach": 0,
+      "artist": "Grafit Studio",
+      "rarity": "Rare",
+      "faction": "Skellige",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Gutting Slash",
+    "category": "Raid",
+    "ability": "Damage a unit by 4.\nBloodthirst 2: Damage by 6 instead.\n",
+    "ability_html": "Damage a unit by 4.\n<span class=\"keyword bloodthirst\">Bloodthirst</span> 2: Damage by 6 instead.\n",
+    "keyword_html": "<span class=\"keyword\">Bloodthirst:</span> Number of damaged enemy units required to trigger this ability.",
+    "flavor": "Man or tree, a Skelligan axe fells it all the same."
+  },{
+    "id": {
+      "art": 1453,
+      "card": 200528,
+      "audio": 1415
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 6,
+      "reach": 0,
+      "artist": "Grafit Studio",
+      "rarity": "Common",
+      "faction": "Skellige",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Heymaey Spearmaiden",
+    "category": "Human, Warrior",
+    "ability": "Deploy: Damage an enemy unit by 2, then damage self by 2.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span>: Damage an enemy unit by 2, then damage self by 2.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.",
+    "flavor": "Skellige women are wild and unpredictable. All units are to treat them as serious threats and never underestimate their capabilities. - General Directive to the Invading Forces of the Imperial Armada"
+  },{
+    "id": {
+      "art": 1263,
+      "card": 152309,
+      "audio": 1151
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 5,
+      "reach": 0,
+      "artist": "Marek Madej",
+      "rarity": "Common",
+      "faction": "Skellige",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Dimun Light Longship",
+    "category": "Machine, Ship",
+    "ability": "Zeal. Order (Ranged): Damage self and an enemy unit by 1.\nCooldown: 1\n",
+    "ability_html": "<span class=\"keyword zeal\">Zeal</span>. <span class=\"keyword order\">Order</span> (<span class=\"keyword ranged\">Ranged</span>): Damage self and an enemy unit by 1.\n<span class=\"keyword cooldown\">Cooldown</span>: 1\n",
+    "keyword_html": "<span class=\"keyword\">Zeal:</span> An Order ability can be used on the same turn the card is placed on the battlefield.\n <span class=\"keyword\">Order:</span> An ability triggered manually by the player. Cards with Order cannot be used for 1 turn after being placed on the battlefield.\n <span class=\"keyword\">Ranged:</span> This ability can only be used while on the ranged row.\n <span class=\"keyword\">Cooldown:</span> The number of turns before an Order or Fee ability can be reused.",
+    "flavor": "Escape them? In the waters of Skellige? Good luck."
+  },{
+    "id": {
+      "art": 2241,
+      "card": 202623,
+      "audio": 2087
+    },
+    "attributes": {
+      "set": "Master Mirror",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 5,
+      "reach": 0,
+      "artist": "Lorenzo Mastroianni",
+      "rarity": "Rare",
+      "faction": "Skellige",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Tuirseach Invader",
+    "category": "Human, Pirate, Warrior",
+    "ability": "Veil.\nVeteran.\n",
+    "ability_html": "<span class=\"keyword veil\">Veil</span>.\n<span class=\"keyword veteran\">Veteran</span>.\n",
+    "keyword_html": "<span class=\"keyword\">Veil:</span> Status that prevents unit from gaining other statuses.\n <span class=\"keyword\">Veteran:</span> At the start of the second and third round, increase the base power of this unit by 1.",
+    "flavor": "Mother of four, ya sayeth? Well, then she shouldst been smarter than running 'round with an axe."
+  },{
+    "id": {
+      "art": 2243,
+      "card": 202626,
+      "audio": 2084
+    },
+    "attributes": {
+      "set": "Master Mirror",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 5,
+      "reach": 0,
+      "artist": "Katarzyna Bekus",
+      "rarity": "Common",
+      "faction": "Skellige",
+      "related": "202289",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Drummond Berserker",
+    "category": "Human, Cultist, Warrior",
+    "ability": "At the end of your turn, damage self and a random enemy unit by 1. \nBerserk 3: Transform into a Bear Abomination.\n",
+    "ability_html": "At the end of your turn, damage self and a random enemy unit by 1. \n<span class=\"keyword berserk\">Berserk</span> 3: Transform into a Bear Abomination.\n",
+    "keyword_html": "<span class=\"keyword\">Berserk:</span> Trigger this ability whenever power is equal to or lower than the specified amount.",
+    "flavor": "Tis but a scratch, aye?"
+  },{
+    "id": {
+      "art": 1256,
+      "card": 152304,
+      "audio": 1070
+    },
+    "attributes": {
+      "set": "BaseSet",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "Grafit Studio",
+      "rarity": "Common",
+      "faction": "Skellige",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Brokvar Hunter",
+    "category": "Human, Warrior",
+    "ability": "Zeal. Order (Ranged): Damage a unit by 1.\nCooldown: 2\nWhenever you play a Beast, reduce the Cooldown by 1.\n",
+    "ability_html": "<span class=\"keyword zeal\">Zeal</span>. <span class=\"keyword order\">Order</span> (<span class=\"keyword ranged\">Ranged</span>): Damage a unit by 1.\n<span class=\"keyword cooldown\">Cooldown</span>: 2\nWhenever you play a Beast, reduce the <span class=\"keyword cooldown\">Cooldown</span> by 1.\n",
+    "keyword_html": "<span class=\"keyword\">Zeal:</span> An Order ability can be used on the same turn the card is placed on the battlefield.\n <span class=\"keyword\">Order:</span> An ability triggered manually by the player. Cards with Order cannot be used for 1 turn after being placed on the battlefield.\n <span class=\"keyword\">Ranged:</span> This ability can only be used while on the ranged row.\n <span class=\"keyword\">Cooldown:</span> The number of turns before an Order or Fee ability can be reused.",
+    "flavor": "Better believe we can hunt. Thing is, not much game on Spikeroog…"
+  },{
+    "id": {
+      "art": 1265,
+      "card": 152311,
+      "audio": 1068
+    },
+    "attributes": {
+      "set": "BaseSet",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "Grafit Studio",
+      "rarity": "Common",
+      "faction": "Skellige",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "An Craite Blacksmith",
+    "category": "Human",
+    "ability": "Order: Boost an allied unit by 1.\nCharge: 1\nWhenever you play a Warrior, gain 1 Charge.\n",
+    "ability_html": "<span class=\"keyword order\">Order</span>: Boost an allied unit by 1.\n<span class=\"keyword charge\">Charge</span>: 1\nWhenever you play a Warrior, gain 1 <span class=\"keyword charge\">Charge</span>.\n",
+    "keyword_html": "<span class=\"keyword\">Order:</span> An ability triggered manually by the player. Cards with Order cannot be used for 1 turn after being placed on the battlefield.\n <span class=\"keyword\">Charge:</span> The number of times an Order ability can be used. Only cards with Charge: X can gain additional Charges.",
+    "flavor": "Remember me words – a good shield can save yer life."
+  },{
+    "id": {
+      "art": 1269,
+      "card": 152315,
+      "audio": 1071
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "Grafit Studio",
+      "rarity": "Rare",
+      "faction": "Skellige",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Brokvar Archer",
+    "category": "Human, Warrior",
+    "ability": "Deploy (Ranged): Damage an enemy unit by the number of damaged units your opponent controls.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span> (<span class=\"keyword ranged\">Ranged</span>): Damage an enemy unit by the number of damaged units your opponent controls.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Ranged:</span> This ability can only be used while on the ranged row.",
+    "flavor": "So ye can hit a movin' target at two hundred paces? Me, too. In a storm."
+  },{
+    "id": {
+      "art": 1253,
+      "card": 152301,
+      "audio": 1726
+    },
+    "attributes": {
+      "set": "CrimsonCurse",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 3,
+      "reach": 0,
+      "artist": "Grafit Studio",
+      "rarity": "Common",
+      "faction": "Skellige",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Svalblod Ravager",
+    "category": "Human, Cultist, Warrior",
+    "ability": "Deploy (Melee): Damage an enemy unit by 2.\nBloodthirst 2: Also give it Bleeding (2).\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span> (<span class=\"keyword melee\">Melee</span>): Damage an enemy unit by 2.\n<span class=\"keyword bloodthirst\">Bloodthirst</span> 2: Also give it <span class=\"keyword bleeding\">Bleeding</span> (2).\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Melee:</span> This ability can only be used while on the melee row.\n <span class=\"keyword\">Bloodthirst:</span> Number of damaged enemy units required to trigger this ability.\n <span class=\"keyword\">Bleeding:</span> Status that damages the unit by 1 at the end of its turn. Note: Bleeding turns can accumulate, 1 turn of Bleeding cancels out 1 turn of Vitality. Bleeding ignores armor.",
+    "flavor": "A two-handed axe? Seems no one told him that."
+  },{
+    "id": {
+      "art": 1258,
+      "card": 152306,
+      "audio": 1075
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 3,
+      "reach": 0,
+      "artist": "Grafit Studio",
+      "rarity": "Rare",
+      "faction": "Skellige",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Dimun Pirate Captain",
+    "category": "Human, Pirate",
+    "ability": "Deploy (Bloodthirst 2): Gain Zeal.\nOrder: Damage a unit by 1.\nCharges: 3\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span> (<span class=\"keyword bloodthirst\">Bloodthirst</span> 2): Gain <span class=\"keyword zeal\">Zeal</span>.\n<span class=\"keyword order\">Order</span>: Damage a unit by 1.\n<span class=\"keyword charge\">Charges</span>: 3\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Bloodthirst:</span> Number of damaged enemy units required to trigger this ability.\n <span class=\"keyword\">Zeal:</span> An Order ability can be used on the same turn the card is placed on the battlefield.\n <span class=\"keyword\">Order:</span> An ability triggered manually by the player. Cards with Order cannot be used for 1 turn after being placed on the battlefield.\n <span class=\"keyword\">Charge:</span> The number of times an Order ability can be used. Only cards with Charge: X can gain additional Charges.",
+    "flavor": "Haul together, hoist the colors high!"
+  },{
+    "id": {
+      "art": 1384,
+      "card": 200081,
+      "audio": 1318
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 1,
+      "reach": 0,
+      "artist": "Lorenzo Mastroianni",
+      "rarity": "Common",
+      "faction": "Skellige",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Heymaey Herbalist",
+    "category": "Human, Druid",
+    "ability": "Deploy (Ranged): Heal an allied unit by 3 and boost it by 3.\n",
+    "ability_html": "<span class=\"keyword Deploy\">Deploy</span> (<span class=\"keyword ranged\">Ranged</span>): <span class=\"keyword heal\">Heal</span> an allied unit by 3 and boost it by 3.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Ranged:</span> This ability can only be used while on the ranged row.\n <span class=\"keyword\">Heal:</span> If a unit's current power is lower than its base power, restore it either to base power or by the amount specified.",
+    "flavor": "We don't burn cunning women in Skellige - we take their advice."
+  }
+]

@@ -1,0 +1,393 @@
+[
+  {
+    "id": {
+      "art": 1741,
+      "card": 202349,
+      "audio": 1797
+    },
+    "attributes": {
+      "set": "Novigrad",
+      "type": "Artifact",
+      "armor": 0,
+      "color": "Gold",
+      "power": 0,
+      "reach": 0,
+      "artist": "Diego Almeida",
+      "rarity": "Legendary",
+      "faction": "Syndicate",
+      "related": "202359",
+      "provision": 8,
+      "factionSecondary": ""
+    },
+    "name": "Sacred Flame",
+    "category": "Firesworn",
+    "ability": "Deploy: Spawn a Firesworn Zealot on each side of this card.\nOrder: Boost all allied Firesworn units by 1.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span>: <span class=\"keyword spawn\">Spawn</span> a Firesworn Zealot on each side of this card.\n<span class=\"keyword order\">Order</span>: Boost all allied Firesworn units by 1.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Spawn:</span> Add a card to the game.\n <span class=\"keyword\">Order:</span> An ability triggered manually by the player. Cards with Order cannot be used for 1 turn after being placed on the battlefield.",
+    "flavor": "Do you feel it? I sense something else beyond its warmth, something more..."
+  },{
+    "id": {
+      "art": 1751,
+      "card": 202635,
+      "audio": 2038
+    },
+    "attributes": {
+      "set": "Master Mirror",
+      "type": "Unit",
+      "armor": 1,
+      "color": "Gold",
+      "power": 5,
+      "reach": 0,
+      "artist": "Grafit Studio",
+      "rarity": "Epic",
+      "faction": "Syndicate",
+      "related": "202359, 202641",
+      "provision": 8,
+      "factionSecondary": ""
+    },
+    "name": "Lieutenant von Herst",
+    "category": "Human, Knight, Firesworn",
+    "ability": "At the end of your turn, if you control a Cleric, Spawn a Firesworn Zealot on this row.\nFee 1: Transform a Firesworn Zealot into a Flaming Rose Footman.\n",
+    "ability_html": "At the end of your turn, if you control a Cleric, <span class=\"keyword spawn\">Spawn</span> a Firesworn Zealot on this row.\n<span class=\"keyword fee\">Fee</span> 1: Transform a Firesworn Zealot into a Flaming Rose Footman.\n",
+    "keyword_html": "<span class=\"keyword\">Spawn:</span> Add a card to the game.\n <span class=\"keyword\">Fee:</span> Trigger this ability by spending the specified number of Coins.",
+    "flavor": "The fall of the Order wasn’t so hard for him like for the others. He is still required to count the goods and manage supplies, only now it has become even easier… Less strict at least."
+  },{
+    "id": {
+      "art": 1997,
+      "card": 202556,
+      "audio": 1970
+    },
+    "attributes": {
+      "set": "Merchants of Ofir",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Gold",
+      "power": 5,
+      "reach": 0,
+      "artist": "Astor Alexander",
+      "rarity": "Epic",
+      "faction": "Syndicate",
+      "related": "",
+      "provision": 7,
+      "factionSecondary": ""
+    },
+    "name": "Ludovicus Brunenbaum",
+    "category": "Gnome, Crownsplitters",
+    "ability": "Timer 3: Gain 9 Coins.\nTribute 5: Gain 9 Coins immediately instead.\n",
+    "ability_html": "<span class=\"keyword timer\">Timer</span> 3: Gain 9 <span class=\"keyword coin\">Coins</span>.\n<span class=\"keyword tribute\">Tribute</span> 5: Gain 9 <span class=\"keyword coin\">Coins</span> immediately instead.\n",
+    "keyword_html": "<span class=\"keyword\">Timer:</span> Before the end of your turn, lower the number by 1. When the number reaches 0, trigger the ability.\n <span class=\"keyword\">Coin:</span> The Novigradian underworld's currency of choice for paying Fees and Tributes. You may possess a maximum of 9 Coins. Your Coin-count is reduced by half (rounded down) when carried over into the next round.\n <span class=\"keyword\">Tribute:</span> On Deploy, you may choose to spend the specified amount of Coins to trigger this ability.",
+    "flavor": "They say he'd sell his own mother. But no one was buying."
+  },{
+    "id": {
+      "art": 1750,
+      "card": 202354,
+      "audio": 1802
+    },
+    "attributes": {
+      "set": "Novigrad",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Gold",
+      "power": 13,
+      "reach": 0,
+      "artist": "Lorenzo Mastroianni",
+      "rarity": "Epic",
+      "faction": "Syndicate",
+      "related": "202359, 202641",
+      "provision": 6,
+      "factionSecondary": ""
+    },
+    "name": "Procession of Penance",
+    "category": "Human, Firesworn",
+    "ability": "Deploy: Damage self by 10. Reduce the damage by 2 for each Firesworn Token you control.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span>: Damage self by 10. Reduce the damage by 2 for each Firesworn Token you control.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.",
+    "flavor": "Careful not to stand too close. Got blood splattered on me favorite tunic last time."
+  },{
+    "id": {
+      "art": 1793,
+      "card": 202634,
+      "audio": 2037
+    },
+    "attributes": {
+      "set": "Master Mirror",
+      "type": "Unit",
+      "armor": 1,
+      "color": "Gold",
+      "power": 4,
+      "reach": 0,
+      "artist": "Grafit Studio",
+      "rarity": "Epic",
+      "faction": "Syndicate",
+      "related": "202641",
+      "provision": 6,
+      "factionSecondary": ""
+    },
+    "name": "Roderick de Wett",
+    "category": "Human, Knight, Firesworn",
+    "ability": "Veil.\nZeal. Order (Melee): Spawn a Flaming Rose Footman on this row.\nAt the end of your turn, if the Order is not used, gain 1 Coin.\n",
+    "ability_html": "<span class=\"keyword veil\">Veil</span>.\n<span class=\"keyword zeal\">Zeal</span>. <span class=\"keyword order\">Order</span> (<span class=\"keyword melee\">Melee</span>): <span class=\"keyword spawn\">Spawn</span> a Flaming Rose Footman on this row.\nAt the end of your turn, if the <span class=\"keyword order\">Order</span> is not used, gain 1 <span class=\"keyword coin\">Coin</span>.\n",
+    "keyword_html": "<span class=\"keyword\">Veil:</span> Status that prevents unit from gaining other statuses.\n <span class=\"keyword\">Zeal:</span> An Order ability can be used on the same turn the card is placed on the battlefield.\n <span class=\"keyword\">Order:</span> An ability triggered manually by the player. Cards with Order cannot be used for 1 turn after being placed on the battlefield.\n <span class=\"keyword\">Melee:</span> This ability can only be used while on the melee row.\n <span class=\"keyword\">Spawn:</span> Add a card to the game.\n <span class=\"keyword\">Coin:</span> The Novigradian underworld's currency of choice for paying Fees and Tributes. You may possess a maximum of 9 Coins. Your Coin-count is reduced by half (rounded down) when carried over into the next round.",
+    "flavor": "Count de Wett is exceptionally loathsome and arrogant, but at least he enjoys a little dice poker on the side."
+  },{
+    "id": {
+      "art": 1758,
+      "card": 202638,
+      "audio": 2039
+    },
+    "attributes": {
+      "set": "Master Mirror",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "VOLMI Games",
+      "rarity": "Common",
+      "faction": "Syndicate",
+      "related": "",
+      "provision": 6,
+      "factionSecondary": ""
+    },
+    "name": "Fallen Knight",
+    "category": "Human, Knight, Firesworn",
+    "ability": "Veil.\nIntimidate.\nWhenever you Spawn a unit on your side of the battlefield, boost self by 1 for each unit Spawned.\n",
+    "ability_html": "<span class=\"keyword veil\">Veil</span>.\n<span class=\"keyword intimidate\">Intimidate</span>.\nWhenever you <span class=\"keyword spawn\">Spawn</span> a unit on your side of the battlefield, boost self by 1 for each unit <span class=\"keyword spawn\">Spawned</span>.\n",
+    "keyword_html": "<span class=\"keyword\">Veil:</span> Status that prevents unit from gaining other statuses.\n <span class=\"keyword\">Intimidate:</span> Boost self by 1 or the specified amount whenever you play a Crime card.\n <span class=\"keyword\">Spawn:</span> Add a card to the game.",
+    "flavor": "He abandoned the righteous fight and the flame in him has long gone."
+  },{
+    "id": {
+      "art": 1877,
+      "card": 202379,
+      "audio": 1827
+    },
+    "attributes": {
+      "set": "Novigrad",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 5,
+      "reach": 0,
+      "artist": "Grafit Studio",
+      "rarity": "Common",
+      "faction": "Syndicate",
+      "related": "",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "Coerced Blacksmith",
+    "category": "Human, Crownsplitters",
+    "ability": "Profit 2.\nFee 1: Boost an allied unit by 1.\n",
+    "ability_html": "<span class=\"keyword profit\">Profit</span> 2.\n<span class=\"keyword fee\">Fee</span> 1: Boost an allied unit by 1.\n",
+    "keyword_html": "<span class=\"keyword\">Profit:</span> Gain a specified number of Coins when this card is played. You may possess a maximum of 9 Coins.\n <span class=\"keyword\">Fee:</span> Trigger this ability by spending the specified number of Coins.",
+    "flavor": "Do ye prefer a full coin purse or a full set of fingers?"
+  },{
+    "id": {
+      "art": 1823,
+      "card": 202369,
+      "audio": 1817
+    },
+    "attributes": {
+      "set": "Novigrad",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "Grafit Studio",
+      "rarity": "Rare",
+      "faction": "Syndicate",
+      "related": "",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "Keeper of the Flame",
+    "category": "Human, Firesworn, Cleric",
+    "ability": "Deploy: Boost adjacent units by 1.\nTribute 4: Boost all units on this row by 1 instead.\nDecrease this card's Tribute cost by 1 for each allied Cleric.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span>: Boost adjacent units by 1.\n<span class=\"keyword tribute\">Tribute</span> 4: Boost all units on this row by 1 instead.\nDecrease this card's <span class=\"keyword tribute\">Tribute</span> cost by 1 for each allied Cleric.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Tribute:</span> On Deploy, you may choose to spend the specified amount of Coins to trigger this ability.",
+    "flavor": "The flame shall forever burn, for evil shall forever corrupt!"
+  },{
+    "id": {
+      "art": 1865,
+      "card": 202376,
+      "audio": 1824
+    },
+    "attributes": {
+      "set": "Novigrad",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "Grafit Studio",
+      "rarity": "Common",
+      "faction": "Syndicate",
+      "related": "",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "Firesworn Scribe",
+    "category": "Human, Firesworn, Cleric",
+    "ability": "Ranged: Whenever you Spawn one or more units on the battlefield, gain 1 Coin.\nTribute 2: Boost self by 2.\n",
+    "ability_html": "<span class=\"keyword ranged\">Ranged</span>: Whenever you <span class=\"keyword spawn\">Spawn</span> one or more units on the battlefield, gain 1 <span class=\"keyword coin\">Coin</span>.\n<span class=\"keyword tribute\">Tribute</span> 2: Boost self by 2.\n",
+    "keyword_html": "<span class=\"keyword\">Ranged:</span> This ability can only be used while on the ranged row.\n <span class=\"keyword\">Spawn:</span> Add a card to the game.\n <span class=\"keyword\">Coin:</span> The Novigradian underworld's currency of choice for paying Fees and Tributes. You may possess a maximum of 9 Coins. Your Coin-count is reduced by half (rounded down) when carried over into the next round.\n <span class=\"keyword\">Tribute:</span> On Deploy, you may choose to spend the specified amount of Coins to trigger this ability.",
+    "flavor": "Wouldn't disturb him if I were you. Those quills are bloody sharp."
+  },{
+    "id": {
+      "art": 1430,
+      "card": 202637,
+      "audio": 2077
+    },
+    "attributes": {
+      "set": "Master Mirror",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "Ilker Serdar Yildiz",
+      "rarity": "Rare",
+      "faction": "Syndicate",
+      "related": "202359, 202641",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "Cleric of the Flaming Rose",
+    "category": "Human, Firesworn, Cleric",
+    "ability": "Profit 3.\nTribute 2: Spawn a Firesworn Zealot on this row.\nFee 1: Transform a Firesworn Zealot into a Flaming Rose Footman.\n",
+    "ability_html": "<span class=\"keyword profit\">Profit</span> 3.\n<span class=\"keyword tribute\">Tribute</span> 2: <span class=\"keyword spawn\">Spawn</span> a Firesworn Zealot on this row.\n<span class=\"keyword fee\">Fee</span> 1: Transform a Firesworn Zealot into a Flaming Rose Footman.\n",
+    "keyword_html": "<span class=\"keyword\">Profit:</span> Gain a specified number of Coins when this card is played. You may possess a maximum of 9 Coins.\n <span class=\"keyword\">Tribute:</span> On Deploy, you may choose to spend the specified amount of Coins to trigger this ability.\n <span class=\"keyword\">Spawn:</span> Add a card to the game.\n <span class=\"keyword\">Fee:</span> Trigger this ability by spending the specified number of Coins.",
+    "flavor": "We have two eyes, two ears, but only one tongue, so that we would look and listen twice more than we speak."
+  },{
+    "id": {
+      "art": 1864,
+      "card": 202374,
+      "audio": 1822
+    },
+    "attributes": {
+      "set": "Novigrad",
+      "type": "Special",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 0,
+      "reach": 0,
+      "artist": "Aleksandra Wojtas",
+      "rarity": "Common",
+      "faction": "Syndicate",
+      "related": "202359",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Congregation",
+    "category": "Crime, Firesworn",
+    "ability": "Spawn 2 Firesworn Zealots on an allied row. If there is a Firesworn unit on that row, Spawn 3 Firesworn Zealots instead.\n",
+    "ability_html": "<span class=\"keyword spawn\">Spawn</span> 2 Firesworn Zealots on an allied row. If there is a Firesworn unit on that row, <span class=\"keyword spawn\">Spawn</span> 3 Firesworn Zealots instead.\n",
+    "keyword_html": "<span class=\"keyword\">Spawn:</span> Add a card to the game.",
+    "flavor": "Our church is not this temple, not our scripture. It is our people, our community, we who have faith."
+  },{
+    "id": {
+      "art": 2201,
+      "card": 202636,
+      "audio": 2078
+    },
+    "attributes": {
+      "set": "Master Mirror",
+      "type": "Special",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 0,
+      "reach": 0,
+      "artist": "Bogdan Rezunenko",
+      "rarity": "Rare",
+      "faction": "Syndicate",
+      "related": "202641",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Smuggle",
+    "category": "Crime, Firesworn",
+    "ability": "Profit 3.\nSpawn a Flaming Rose Footman on an allied row.\n",
+    "ability_html": "<span class=\"keyword profit\">Profit</span> 3.\n<span class=\"keyword spawn\">Spawn</span> a Flaming Rose Footman on an allied row.\n",
+    "keyword_html": "<span class=\"keyword\">Profit:</span> Gain a specified number of Coins when this card is played. You may possess a maximum of 9 Coins.\n <span class=\"keyword\">Spawn:</span> Add a card to the game.",
+    "flavor": "Whoever said that the dead are good for nothing? They make for such great smuggle-bags."
+  },{
+    "id": {
+      "art": 1857,
+      "card": 202340,
+      "audio": 1788
+    },
+    "attributes": {
+      "set": "Novigrad",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "Katarzyna Bekus",
+      "rarity": "Rare",
+      "faction": "Syndicate",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Tax Collector",
+    "category": "Human",
+    "ability": "Ranged: At the end of your turn, gain 1 Coin.\n",
+    "ability_html": "<span class=\"keyword ranged\">Ranged</span>: At the end of your turn, gain 1 <span class=\"keyword coin\">Coin</span>.\n",
+    "keyword_html": "<span class=\"keyword\">Ranged:</span> This ability can only be used while on the ranged row.\n <span class=\"keyword\">Coin:</span> The Novigradian underworld's currency of choice for paying Fees and Tributes. You may possess a maximum of 9 Coins. Your Coin-count is reduced by half (rounded down) when carried over into the next round.",
+    "flavor": "Just between rat catcher and latrine shoveler on this year's most desirable professions list."
+  },{
+    "id": {
+      "art": 1434,
+      "card": 202362,
+      "audio": 1810
+    },
+    "attributes": {
+      "set": "Novigrad",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "Grafit Studio",
+      "rarity": "Rare",
+      "faction": "Syndicate",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Eternal Fire Priest",
+    "category": "Human, Firesworn, Cleric",
+    "ability": "Whenever you Spawn one or more units on the battlefield, boost self by 1.\n",
+    "ability_html": "Whenever you <span class=\"keyword spawn\">Spawn</span> one or more units on the battlefield, boost self by 1.\n",
+    "keyword_html": "<span class=\"keyword\">Spawn:</span> Add a card to the game.",
+    "flavor": "Closer, my sheep, gather closer. May the Eternal Fire warm your souls!"
+  },{
+    "id": {
+      "art": 1749,
+      "card": 202366,
+      "audio": 1814
+    },
+    "attributes": {
+      "set": "Novigrad",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 3,
+      "reach": 0,
+      "artist": "Maciej Laszkiewicz",
+      "rarity": "Rare",
+      "faction": "Syndicate",
+      "related": "202359",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Eternal Fire Disciple",
+    "category": "Human, Firesworn, Cleric",
+    "ability": "Profit 2.\nFee 1: Spawn a Firesworn Zealot on this row.\nCooldown: 1\n",
+    "ability_html": "<span class=\"keyword profit\">Profit</span> 2.\n<span class=\"keyword fee\">Fee</span> 1: <span class=\"keyword spawn\">Spawn</span> a Firesworn Zealot on this row.\n<span class=\"keyword cooldown\">Cooldown</span>: 1\n",
+    "keyword_html": "<span class=\"keyword\">Profit:</span> Gain a specified number of Coins when this card is played. You may possess a maximum of 9 Coins.\n <span class=\"keyword\">Fee:</span> Trigger this ability by spending the specified number of Coins.\n <span class=\"keyword\">Spawn:</span> Add a card to the game.\n <span class=\"keyword\">Cooldown:</span> The number of turns before an Order or Fee ability can be reused.",
+    "flavor": "Look into your hearts, dear brethen. Does a contempt for injustice not burn within it?"
+  }
+]

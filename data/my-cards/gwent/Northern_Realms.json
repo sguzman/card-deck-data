@@ -1,0 +1,523 @@
+[
+  {
+    "id": {
+      "art": 1092,
+      "card": 122212,
+      "audio": 1176
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Gold",
+      "power": 5,
+      "reach": 0,
+      "artist": "Bryan Sola",
+      "rarity": "Epic",
+      "faction": "Northern Realms",
+      "related": "",
+      "provision": 9,
+      "factionSecondary": ""
+    },
+    "name": "Nenneke",
+    "category": "Human",
+    "ability": "Zeal. Order (Ranged): Boost a unit by 1. \nCharges: 4\n",
+    "ability_html": "<span class=\"keyword zeal\">Zeal</span>. <span class=\"keyword order\">Order</span> (<span class=\"keyword ranged\">Ranged</span>): Boost a unit by 1. \n<span class=\"keyword charge\">Charges</span>: 4\n",
+    "keyword_html": "<span class=\"keyword\">Zeal:</span> An Order ability can be used on the same turn the card is placed on the battlefield.\n <span class=\"keyword\">Order:</span> An ability triggered manually by the player. Cards with Order cannot be used for 1 turn after being placed on the battlefield.\n <span class=\"keyword\">Ranged:</span> This ability can only be used while on the ranged row.\n <span class=\"keyword\">Charge:</span> The number of times an Order ability can be used. Only cards with Charge: X can gain additional Charges.",
+    "flavor": "Few know more about healing than Nenneke."
+  },{
+    "id": {
+      "art": 1088,
+      "card": 122208,
+      "audio": 1017
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Gold",
+      "power": 4,
+      "reach": 0,
+      "artist": "Lorenzo Mastroianni",
+      "rarity": "Epic",
+      "faction": "Northern Realms",
+      "related": "",
+      "provision": 8,
+      "factionSecondary": ""
+    },
+    "name": "Prince Stennis",
+    "category": "Human, Knight",
+    "ability": "Deploy (Melee): Boost an allied unit by 4.\nDeploy (Ranged): Boost 4 allied units by 1.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span> (<span class=\"keyword melee\">Melee</span>): Boost an allied unit by 4.\n<span class=\"keyword deploy\">Deploy</span> (<span class=\"keyword ranged\">Ranged</span>): Boost 4 allied units by 1.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Melee:</span> This ability can only be used while on the melee row.\n <span class=\"keyword\">Ranged:</span> This ability can only be used while on the ranged row.",
+    "flavor": "He wears armor made of gold. Of course he's a jerk."
+  },{
+    "id": {
+      "art": 1689,
+      "card": 202152,
+      "audio": 1591
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Gold",
+      "power": 5,
+      "reach": 0,
+      "artist": "Volmi Games",
+      "rarity": "Epic",
+      "faction": "Northern Realms",
+      "related": "",
+      "provision": 7,
+      "factionSecondary": ""
+    },
+    "name": "Anna Strenger",
+    "category": "Human, Cursed",
+    "ability": "At the end of your turn, boost the unit to the right by 1.\nInspired: Boost adjacent units by 1 instead.\n",
+    "ability_html": "At the end of your turn, boost the unit to the right by 1.\n<span class=\"keyword inspired\">Inspired</span>: Boost adjacent units by 1 instead.\n",
+    "keyword_html": "<span class=\"keyword\">Inspired:</span> Trigger this ability if this unit's current power is higher than its base power.",
+    "flavor": "Anna hated her husband so much that she was ready to do anything in order to be free of the man — and the child he had put inside her."
+  },{
+    "id": {
+      "art": 1111,
+      "card": 122311,
+      "audio": 1022
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 5,
+      "reach": 0,
+      "artist": "Anna Podedworna",
+      "rarity": "Rare",
+      "faction": "Northern Realms",
+      "related": "122311",
+      "provision": 6,
+      "factionSecondary": ""
+    },
+    "name": "Blue Stripes Commando",
+    "category": "Human, Soldier",
+    "ability": "Order: Summon all copies of self from your deck to this row.\n",
+    "ability_html": "<span class=\"keyword order\">Order</span>: <span class=\"keyword summon\">Summon</span> all copies of self from your deck to this row.\n",
+    "keyword_html": "<span class=\"keyword\">Order:</span> An ability triggered manually by the player. Cards with Order cannot be used for 1 turn after being placed on the battlefield.\n <span class=\"keyword\">Summon:</span> Move automatically to the battlefield (not considered played).",
+    "flavor": "I'd do anything for Temeria. Mostly though, I kill for her."
+  },{
+    "id": {
+      "art": 1118,
+      "card": 122316,
+      "audio": 1106
+    },
+    "attributes": {
+      "set": "BaseSet",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 3,
+      "reach": 0,
+      "artist": "Marta Dettlaff",
+      "rarity": "Common",
+      "faction": "Northern Realms",
+      "related": "",
+      "provision": 6,
+      "factionSecondary": ""
+    },
+    "name": "Temerian Infantry",
+    "category": "Human, Soldier",
+    "ability": "Formation.\nOrder: Boost an allied unit by 2 for each remaining Charge of your leader ability.\n",
+    "ability_html": "<span class=\"keyword formation\">Formation</span>.\n<span class=\"keyword order\">Order</span>: Boost an allied unit by 2 for each remaining <span class=\"keyword charge\">Charge</span> of your leader ability.\n",
+    "keyword_html": "<span class=\"keyword\">Formation:</span> If played on the melee row, gain Zeal. If played on the ranged row, boost self by 1.\n <span class=\"keyword\">Order:</span> An ability triggered manually by the player. Cards with Order cannot be used for 1 turn after being placed on the battlefield.\n <span class=\"keyword\">Charge:</span> The number of times an Order ability can be used. Only cards with Charge: X can gain additional Charges.",
+    "flavor": "Temeria! Temeria! Gods shed all grace on thee! And smite thy foes with horrid woes, for all eternity!"
+  },{
+    "id": {
+      "art": 1507,
+      "card": 200529,
+      "audio": 1412
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Gold",
+      "power": 1,
+      "reach": 0,
+      "artist": "Grafit Studio",
+      "rarity": "Epic",
+      "faction": "Northern Realms",
+      "related": "",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "Ronvid the Incessant",
+    "category": "Human, Soldier",
+    "ability": "Deploy: Boost self by 5.\nWhen you play a Soldier, Summon self from your graveyard to a random allied row.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span>: Boost self by 5.\nWhen you play a Soldier, <span class=\"keyword summon\">Summon</span> self from your graveyard to a random allied row.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Summon:</span> Move automatically to the battlefield (not considered played).",
+    "flavor": "This self-dubbed knight roams the world defending the honor of his beloved Maid Bilberry - though none are certain where she lives, if she lives still or if she ever lived at all."
+  },{
+    "id": {
+      "art": 1116,
+      "card": 122315,
+      "audio": 1185
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 5,
+      "reach": 0,
+      "artist": "Anna Podedworna",
+      "rarity": "Common",
+      "faction": "Northern Realms",
+      "related": "",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "Reinforced Trebuchet",
+    "category": "Machine, Siege Engine",
+    "ability": "Ranged: At the end of your turn, damage a random enemy unit on the Ranged row by 1.\nCrew: Damage a random enemy unit by 1 instead.\n",
+    "ability_html": "<span class=\"keyword ranged\">Ranged</span>: At the end of your turn, damage a random enemy unit on the <span class=\"keyword ranged\">Ranged</span> row by 1.\n<span class=\"keyword crew\">Crew</span>: Damage a random enemy unit by 1 instead.\n",
+    "keyword_html": "<span class=\"keyword\">Ranged:</span> This ability can only be used while on the ranged row.\n <span class=\"keyword\">Crew:</span> Trigger this ability if this unit is between two Soldiers.",
+    "flavor": "Feel that? The earth trembles each time Big Bertha looses a stone."
+  },{
+    "id": {
+      "art": 1492,
+      "card": 200299,
+      "audio": 1392
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 5,
+      "reach": 0,
+      "artist": "Grafit Studio",
+      "rarity": "Common",
+      "faction": "Northern Realms",
+      "related": "",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "Temerian Drummer",
+    "category": "Human, Soldier",
+    "ability": "At the end of your turn, boost the unit to the right by 1.\n",
+    "ability_html": "At the end of your turn, boost the unit to the right by 1.\n",
+    "keyword_html": "",
+    "flavor": "Not the career he had in mind when he told mummy he wanted to be a musician."
+  },{
+    "id": {
+      "art": 1541,
+      "card": 202155,
+      "audio": 1594
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "Grafit Studio",
+      "rarity": "Common",
+      "faction": "Northern Realms",
+      "related": "",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "Lyrian Arbalest",
+    "category": "Human, Soldier",
+    "ability": "Order: Damage a unit by 1. \nCharge: 1\nWhenever you play a card with an Order, gain 1 Charge .\n",
+    "ability_html": "<span class=\"keyword order\">Order</span>: Damage a unit by 1. \n<span class=\"keyword charge\">Charge</span>: 1\nWhenever you play a card with an <span class=\"keyword order\">Order</span>, gain 1 <span class=\"keyword charge\">Charge</span> .\n",
+    "keyword_html": "<span class=\"keyword\">Order:</span> An ability triggered manually by the player. Cards with Order cannot be used for 1 turn after being placed on the battlefield.\n <span class=\"keyword\">Charge:</span> The number of times an Order ability can be used. Only cards with Charge: X can gain additional Charges.",
+    "flavor": "I can find the bull's-eye from a hundred paces! Perhaps not with my first shot, mind you..."
+  },{
+    "id": {
+      "art": 1521,
+      "card": 202156,
+      "audio": 1595
+    },
+    "attributes": {
+      "set": "BaseSet",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "Maciej Łaszkiewicz",
+      "rarity": "Rare",
+      "faction": "Northern Realms",
+      "related": "",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "Lyrian Landsknecht",
+    "category": "Human, Soldier",
+    "ability": "Formation.\nOrder: Damage a unit by 1.\nInspired: Damage by 3 instead.\n",
+    "ability_html": "<span class=\"keyword formation\">Formation</span>.\n<span class=\"keyword order\">Order</span>: Damage a unit by 1.\n<span class=\"keyword inspired\">Inspired</span>: Damage by 3 instead.\n",
+    "keyword_html": "<span class=\"keyword\">Formation:</span> If played on the melee row, gain Zeal. If played on the ranged row, boost self by 1.\n <span class=\"keyword\">Order:</span> An ability triggered manually by the player. Cards with Order cannot be used for 1 turn after being placed on the battlefield.\n <span class=\"keyword\">Inspired:</span> Trigger this ability if this unit's current power is higher than its base power.",
+    "flavor": "Best not laugh at their silly-arse hats. Believe me."
+  },{
+    "id": {
+      "art": 2226,
+      "card": 202651,
+      "audio": 2066
+    },
+    "attributes": {
+      "set": "Master Mirror",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 3,
+      "reach": 0,
+      "artist": "Bogdan Rezunenko",
+      "rarity": "Rare",
+      "faction": "Northern Realms",
+      "related": "",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "Kerack City Guard",
+    "category": "Human, Soldier",
+    "ability": "Veil.\nOrder: Move an enemy unit to the other row.\nAt the end of your turn, if the Order is not used, boost self by 1.\n",
+    "ability_html": "<span class=\"keyword veil\">Veil</span>.\n<span class=\"keyword order\">Order</span>: Move an enemy unit to the other row.\nAt the end of your turn, if the <span class=\"keyword order\">Order</span> is not used, boost self by 1.\n",
+    "keyword_html": "<span class=\"keyword\">Veil:</span> Status that prevents unit from gaining other statuses.\n <span class=\"keyword\">Order:</span> An ability triggered manually by the player. Cards with Order cannot be used for 1 turn after being placed on the battlefield.",
+    "flavor": "Geralt thought there were no ugly women, but in the guardhouse of Kerack he felt compelled to revise this view."
+  },{
+    "id": {
+      "art": 1108,
+      "card": 122309,
+      "audio": 1020
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "Filipe Pagliuso",
+      "rarity": "Common",
+      "faction": "Northern Realms",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Siege Support",
+    "category": "Human, Soldier",
+    "ability": "Deploy (Melee): Reduce the Cooldown of an allied unit by 1.\nDeploy (Ranged): Boost an allied unit by 1.\nOrder: Give an allied unit Zeal.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span> (<span class=\"keyword melee\">Melee</span>): Reduce the <span class=\"keyword cooldown\">Cooldown</span> of an allied unit by 1.\n<span class=\"keyword deploy\">Deploy</span> (<span class=\"keyword ranged\">Ranged</span>): Boost an allied unit by 1.\n<span class=\"keyword order\">Order</span>: Give an allied unit <span class=\"keyword zeal\">Zeal</span>.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Melee:</span> This ability can only be used while on the melee row.\n <span class=\"keyword\">Cooldown:</span> The number of turns before an Order or Fee ability can be reused.\n <span class=\"keyword\">Ranged:</span> This ability can only be used while on the ranged row.\n <span class=\"keyword\">Order:</span> An ability triggered manually by the player. Cards with Order cannot be used for 1 turn after being placed on the battlefield.\n <span class=\"keyword\">Zeal:</span> An Order ability can be used on the same turn the card is placed on the battlefield.",
+    "flavor": "You gotta recalibrate the arm by five degrees.\\nDo what by the what now?"
+  },{
+    "id": {
+      "art": 1114,
+      "card": 122313,
+      "audio": 1103
+    },
+    "attributes": {
+      "set": "BaseSet",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "Lasahido Lius",
+      "rarity": "Common",
+      "faction": "Northern Realms",
+      "related": "122313",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Dun Banner",
+    "category": "Human, Soldier",
+    "ability": "Whenever Dun Banner receives a boost, Summon all copies of it from your deck to this row.\n",
+    "ability_html": "Whenever Dun Banner receives a boost, <span class=\"keyword summon\">Summon</span> all copies of it from your deck to this row.\n",
+    "keyword_html": "<span class=\"keyword\">Summon:</span> Move automatically to the battlefield (not considered played).",
+    "flavor": "Stay calm, everyone. And be alert. The true owners of those cloaks and beaver–skin caps might be elsewhere."
+  },{
+    "id": {
+      "art": 1459,
+      "card": 200171,
+      "audio": 1200
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "Grafit Studio",
+      "rarity": "Common",
+      "faction": "Northern Realms",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Tridam Infantry",
+    "category": "Human, Soldier",
+    "ability": "Whenever this unit receives a boost, damage a random enemy unit by 1.\n",
+    "ability_html": "Whenever this unit receives a boost, damage a random enemy unit by 1.\n",
+    "keyword_html": "",
+    "flavor": "Soldiers loyal to the old baron of Tridam left the city with Falibor, thus becoming renegades wanted by the law."
+  },{
+    "id": {
+      "art": 1481,
+      "card": 202161,
+      "audio": 1430
+    },
+    "attributes": {
+      "set": "BaseSet",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "Maciej Łaszkiewicz",
+      "rarity": "Common",
+      "faction": "Northern Realms",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Lyrian Scytheman",
+    "category": "Human, Soldier",
+    "ability": "Deploy: Boost self by 1 for each boosted unit on this row.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span>: Boost self by 1 for each boosted unit on this row.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.",
+    "flavor": "Our folk they feed, and our foes they bleed."
+  },{
+    "id": {
+      "art": 1817,
+      "card": 202421,
+      "audio": 1883
+    },
+    "attributes": {
+      "set": "Iron Judgment",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "Grafit Studio",
+      "rarity": "Rare",
+      "faction": "Northern Realms",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Radovid's Royal Guards",
+    "category": "Human, Soldier",
+    "ability": "Formation.\nOrder: Boost an allied unit by 2.\nInspired: Give it 2 Armor.\n",
+    "ability_html": "<span class=\"keyword formation\">Formation</span>.\n<span class=\"keyword order\">Order</span>: Boost an allied unit by 2.\n<span class=\"keyword inspired\">Inspired</span>: Give it 2 <span class=\"keyword armor\">Armor</span>.\n",
+    "keyword_html": "<span class=\"keyword\">Formation:</span> If played on the melee row, gain Zeal. If played on the ranged row, boost self by 1.\n <span class=\"keyword\">Order:</span> An ability triggered manually by the player. Cards with Order cannot be used for 1 turn after being placed on the battlefield.\n <span class=\"keyword\">Inspired:</span> Trigger this ability if this unit's current power is higher than its base power.\n <span class=\"keyword\">Armor:</span> Protects the unit from damage. This value doesn't count towards your score and/or the unit's power.",
+    "flavor": "They'll do anything for their king. They know what he'll do to them if they refuse."
+  },{
+    "id": {
+      "art": 1096,
+      "card": 122301,
+      "audio": 1018
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 3,
+      "reach": 0,
+      "artist": "Anna Podedworna",
+      "rarity": "Common",
+      "faction": "Northern Realms",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Ballista",
+    "category": "Machine, Siege Engine",
+    "ability": "Deploy: Damage an enemy unit by 1. \nOrder: Damage an enemy unit by 2.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span>: Damage an enemy unit by 1. \n<span class=\"keyword order\">Order</span>: Damage an enemy unit by 2.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Order:</span> An ability triggered manually by the player. Cards with Order cannot be used for 1 turn after being placed on the battlefield.",
+    "flavor": "What crossbows want to be when they grow up."
+  },{
+    "id": {
+      "art": 1099,
+      "card": 122304,
+      "audio": 1140
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 3,
+      "reach": 0,
+      "artist": "Noah Bradley",
+      "rarity": "Rare",
+      "faction": "Northern Realms",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Siege Tower",
+    "category": "Machine, Siege Engine",
+    "ability": "Zeal. Order: Gain Vitality (2).\nCrew: Boost self by 2 instead.\nCooldown: 2\n",
+    "ability_html": "<span class=\"keyword zeal\">Zeal</span>. <span class=\"keyword order\">Order</span>: Gain <span class=\"keyword vitality\">Vitality</span> (2).\n<span class=\"keyword crew\">Crew</span>: Boost self by 2 instead.\n<span class=\"keyword cooldown\">Cooldown</span>: 2\n",
+    "keyword_html": "<span class=\"keyword\">Zeal:</span> An Order ability can be used on the same turn the card is placed on the battlefield.\n <span class=\"keyword\">Order:</span> An ability triggered manually by the player. Cards with Order cannot be used for 1 turn after being placed on the battlefield.\n <span class=\"keyword\">Vitality:</span> Status that boosts this unit by 1 on its turn end. Note: Vitality turns can accumulate; 1 turn of Vitality cancels out 1 turn of Bleeding.\n <span class=\"keyword\">Crew:</span> Trigger this ability if this unit is between two Soldiers.\n <span class=\"keyword\">Cooldown:</span> The number of turns before an Order or Fee ability can be reused.",
+    "flavor": "The latest rage in assaults on walled cities."
+  },{
+    "id": {
+      "art": 1113,
+      "card": 122312,
+      "audio": 1023
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 2,
+      "reach": 0,
+      "artist": "Diego de Almeida Peres",
+      "rarity": "Common",
+      "faction": "Northern Realms",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Field Medic",
+    "category": "Human",
+    "ability": "Deploy: Boost adjacent units by 2.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span>: Boost adjacent units by 2.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.",
+    "flavor": "Stitch red to red, white to white, and everything will be all right."
+  },{
+    "id": {
+      "art": 1120,
+      "card": 122317,
+      "audio": 1885
+    },
+    "attributes": {
+      "set": "Iron Judgment",
+      "type": "Unit",
+      "armor": 3,
+      "color": "Bronze",
+      "power": 1,
+      "reach": 0,
+      "artist": "Nemanja Stankovic",
+      "rarity": "Common",
+      "faction": "Northern Realms",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Redanian Elite",
+    "category": "Human, Soldier",
+    "ability": "Deploy: Boost self by 6.\nExposed: Reset own power.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span>: Boost self by 6.\n<span class=\"keyword exposed\">Exposed</span>: Reset own power.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Exposed:</span> Trigger this ability whenever the unit loses its Armor.",
+    "flavor": "I'll die for Redania, I'll kill for Redania… I'll even eat worms for Redania!"
+  }
+]

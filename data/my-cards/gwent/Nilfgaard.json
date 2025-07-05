@@ -1,0 +1,549 @@
+[
+  {
+    "id": {
+      "art": 1682,
+      "card": 202239,
+      "audio": 1673
+    },
+    "attributes": {
+      "set": "CrimsonCurse",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Gold",
+      "power": 2,
+      "reach": 0,
+      "artist": "Alicja Kapustka",
+      "rarity": "Epic",
+      "faction": "Nilfgaard",
+      "related": "",
+      "provision": 9,
+      "factionSecondary": ""
+    },
+    "name": "Artorius Vigo",
+    "category": "Human, Mage",
+    "ability": "Assimilate.\nDeploy: Create and play a 1-power copy of a bronze unit from your starting deck.\n",
+    "ability_html": "<span class=\"keyword assimilate\">Assimilate</span>.\n<span class=\"keyword deploy\">Deploy</span>: <span class=\"keyword create\">Create</span> and play a 1-power copy of a bronze unit from your starting deck.\n",
+    "keyword_html": "<span class=\"keyword\">Assimilate:</span> Boost self by 1 or the specified amount whenever you play a card that is not from your starting deck.\n <span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Create:</span> Spawn one of three randomly selected cards from the specified source.",
+    "flavor": "It is said he created an illusion so realistic that he began to believe it himself..."
+  },{
+    "id": {
+      "art": 1326,
+      "card": 163101,
+      "audio": 1323
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Special",
+      "armor": 0,
+      "color": "Gold",
+      "power": 0,
+      "reach": 0,
+      "artist": "Alicja Kapustka",
+      "rarity": "Epic",
+      "faction": "Nilfgaard",
+      "related": "",
+      "provision": 7,
+      "factionSecondary": ""
+    },
+    "name": "Treason",
+    "category": "Tactic",
+    "ability": "Give Spying to an enemy unit and damage adjacent units by its power.\n",
+    "ability_html": "Give <span class=\"keyword spying\">Spying</span> to an enemy unit and damage adjacent units by its power.\n",
+    "keyword_html": "<span class=\"keyword\">Spying:</span> Status with no additional effect. Can be used by other cards and abilities.",
+    "flavor": "In Nilfgaard, trustful people are considered an endangered species."
+  },{
+    "id": {
+      "art": 1301,
+      "card": 162209,
+      "audio": 1272
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Gold",
+      "power": 7,
+      "reach": 0,
+      "artist": "Diego de Almeida Peres",
+      "rarity": "Epic",
+      "faction": "Nilfgaard",
+      "related": "162208",
+      "provision": 7,
+      "factionSecondary": ""
+    },
+    "name": "Serrit",
+    "category": "Witcher",
+    "ability": "Deploy: Damage an enemy unit by 2. If Auckes is in your hand, damage that unit by 4 instead.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span>: Damage an enemy unit by 2. If Auckes is in your hand, damage that unit by 4 instead.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.",
+    "flavor": "We do what we must. I am not ashamed of that."
+  },{
+    "id": {
+      "art": 1298,
+      "card": 162206,
+      "audio": 1268
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Gold",
+      "power": 4,
+      "reach": 0,
+      "artist": "Chris Rallis",
+      "rarity": "Epic",
+      "faction": "Nilfgaard",
+      "related": "",
+      "provision": 7,
+      "factionSecondary": ""
+    },
+    "name": "Sweers",
+    "category": "Human, Soldier, Knight",
+    "ability": "Deploy (Melee): Seize an enemy unit with 3 or less power.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span> (<span class=\"keyword melee\">Melee</span>): <span class=\"keyword seize\">Seize</span> an enemy unit with 3 or less power.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Melee:</span> This ability can only be used while on the melee row.\n <span class=\"keyword\">Seize:</span> Move an enemy unit to the opposite row and give it Spying. If it already had Spying, remove Spying instead.",
+    "flavor": "And hands off the girl! Whatever we may be, we're not savages."
+  },{
+    "id": {
+      "art": 1300,
+      "card": 162208,
+      "audio": 1271
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Gold",
+      "power": 6,
+      "reach": 0,
+      "artist": "Bryan Sola",
+      "rarity": "Epic",
+      "faction": "Nilfgaard",
+      "related": "162209",
+      "provision": 6,
+      "factionSecondary": ""
+    },
+    "name": "Auckes",
+    "category": "Witcher",
+    "ability": "Deploy: Lock an enemy unit. If Serrit is in your hand, Lock all copies of that unit on your opponent's side instead.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span>: <span class=\"keyword lock\">Lock</span> an enemy unit. If Serrit is in your hand, <span class=\"keyword lock\">Lock</span> all copies of that unit on your opponent's side instead.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Lock:</span> Status that disables a unit's abilities.",
+    "flavor": "Letho's got a plan… what could go wrong?"
+  },{
+    "id": {
+      "art": 1936,
+      "card": 202449,
+      "audio": 1850
+    },
+    "attributes": {
+      "set": "Iron Judgment",
+      "type": "Unit",
+      "armor": 2,
+      "color": "Gold",
+      "power": 4,
+      "reach": 0,
+      "artist": "Lorenzo Mastroianni",
+      "rarity": "Epic",
+      "faction": "Nilfgaard",
+      "related": "",
+      "provision": 6,
+      "factionSecondary": ""
+    },
+    "name": "Glynnis aep Loernach",
+    "category": "Human, Soldier",
+    "ability": "Assimilate 2.\n",
+    "ability_html": "<span class=\"keyword assimilate\">Assimilate</span> 2.\n",
+    "keyword_html": "<span class=\"keyword\">Assimilate:</span> Boost self by 1 or the specified amount whenever you play a card that is not from your starting deck.",
+    "flavor": "She loved every soldier like a son. She cried for each one."
+  },{
+    "id": {
+      "art": 1314,
+      "card": 162309,
+      "audio": 1305
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 3,
+      "reach": 0,
+      "artist": "Diego de Almeida Peres",
+      "rarity": "Common",
+      "faction": "Nilfgaard",
+      "related": "202454",
+      "provision": 6,
+      "factionSecondary": ""
+    },
+    "name": "Nauzicaa Sergeant",
+    "category": "Human, Soldier",
+    "ability": "Deploy: If your opponent has won a round this game, Spawn and play Battle Preparation.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span>: If your opponent has won a round this game, <span class=\"keyword spawn\">Spawn</span> and play Battle Preparation.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Spawn:</span> Add a card to the game.",
+    "flavor": "The Emperor will teach the North discipline."
+  },{
+    "id": {
+      "art": 1599,
+      "card": 201583,
+      "audio": 1497
+    },
+    "attributes": {
+      "set": "BaseSet",
+      "type": "Special",
+      "armor": 0,
+      "color": "Gold",
+      "power": 0,
+      "reach": 0,
+      "artist": "Bogna Gawrońska",
+      "rarity": "Epic",
+      "faction": "Nilfgaard",
+      "related": "",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "Dazhbog Runestone",
+    "category": "Alchemy",
+    "ability": "Create and play a bronze Nilfgaard card.\n",
+    "ability_html": "<span class=\"keyword create\">Create</span> and play a bronze Nilfgaard card.\n",
+    "keyword_html": "<span class=\"keyword\">Create:</span> Spawn one of three randomly selected cards from the specified source.",
+    "flavor": "Careful. Still hot."
+  },{
+    "id": {
+      "art": 1309,
+      "card": 162304,
+      "audio": 1310
+    },
+    "attributes": {
+      "set": "BaseSet",
+      "type": "Special",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 0,
+      "reach": 0,
+      "artist": "Lorenzo Mastroianni",
+      "rarity": "Rare",
+      "faction": "Nilfgaard",
+      "related": "",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "Experimental Remedy",
+    "category": "Tactic",
+    "ability": "Play a Bronze unit from your opponent's graveyard.\n",
+    "ability_html": "Play a Bronze unit from your opponent's graveyard.\n",
+    "keyword_html": "",
+    "flavor": "Well... At least, I can't make you more dead..."
+  },{
+    "id": {
+      "art": 1323,
+      "card": 162318,
+      "audio": 1306
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 9,
+      "reach": 0,
+      "artist": "Grafit Studio",
+      "rarity": "Rare",
+      "faction": "Nilfgaard",
+      "related": "",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "Nilfgaardian Knight",
+    "category": "Human, Soldier, Knight",
+    "ability": "Deploy: Boost an enemy unit by 2.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span>: Boost an enemy unit by 2.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.",
+    "flavor": "Sons of noble houses, born in the City of the Golden Towers, form the elite backbone of the Imperial Army."
+  },{
+    "id": {
+      "art": 1490,
+      "card": 200296,
+      "audio": 1389
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 1,
+      "color": "Bronze",
+      "power": 5,
+      "reach": 0,
+      "artist": "Grafit Studio",
+      "rarity": "Rare",
+      "faction": "Nilfgaard",
+      "related": "",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "Alba Armored Cavalry",
+    "category": "Human, Soldier",
+    "ability": "Deploy (Melee): Lock an enemy unit.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span> (<span class=\"keyword melee\">Melee</span>): <span class=\"keyword lock\">Lock</span> an enemy unit.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Melee:</span> This ability can only be used while on the melee row.\n <span class=\"keyword\">Lock:</span> Status that disables a unit's abilities.",
+    "flavor": "The wedge of riders thundered into the phalanx with crushing momentum. Like a dagger thrust into an exposed belly, the Alba Division swept unhindered through everything between it and the vital organs of the Temerian Infantry."
+  },{
+    "id": {
+      "art": 1421,
+      "card": 202246,
+      "audio": 1678
+    },
+    "attributes": {
+      "set": "CrimsonCurse",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 5,
+      "reach": 0,
+      "artist": "Anna Podedworna",
+      "rarity": "Rare",
+      "faction": "Nilfgaard",
+      "related": "",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "Imperial Diviner",
+    "category": "Human, Mage",
+    "ability": "Assimilate.\nDeploy: Purify a unit.\n",
+    "ability_html": "<span class=\"keyword assimilate\">Assimilate</span>.\n<span class=\"keyword deploy\">Deploy</span>: <span class=\"keyword purify\">Purify</span> a unit.\n",
+    "keyword_html": "<span class=\"keyword\">Assimilate:</span> Boost self by 1 or the specified amount whenever you play a card that is not from your starting deck.\n <span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Purify:</span> Remove all statuses.",
+    "flavor": "Emperor Emhyr var Emreis spared no effort to find his daughter, even resorting to arcane magics of the mages and sorceresses he had so vehemently despised."
+  },{
+    "id": {
+      "art": 1316,
+      "card": 162311,
+      "audio": 1277
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "Lorenzo Mastroianni",
+      "rarity": "Common",
+      "faction": "Nilfgaard",
+      "related": "",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "Alba Pikeman",
+    "category": "Human, Soldier",
+    "ability": "Flanking.\nOrder: Give an enemy unit Bleeding (1).\nCharges: 0\nAt the end of your turn, gain 1 Charge. If this unit has at least 3 Charges, gain 1 Armor instead.\n",
+    "ability_html": "<span class=\"keyword flanking\">Flanking</span>.\n<span class=\"keyword order\">Order</span>: Give an enemy unit <span class=\"keyword bleeding\">Bleeding</span> (1).\n<span class=\"keyword charge\">Charges</span>: 0\nAt the end of your turn, gain 1 <span class=\"keyword charge\">Charge</span>. If this unit has at least 3 <span class=\"keyword charge\">Charges</span>, gain 1 <span class=\"keyword armor\">Armor</span> instead.\n",
+    "keyword_html": "<b><span class=\"keyword\">Flanking:</span></b> If this unit is adjacent to only one card: on your Melee row, its end of turn ability is triggered twice; on your Ranged row, gain 1 Armor at the end of your turn.\n <span class=\"keyword\">Order:</span> An ability triggered manually by the player. Cards with Order cannot be used for 1 turn after being placed on the battlefield.\n <span class=\"keyword\">Bleeding:</span> Status that damages the unit by 1 at the end of its turn. Note: Bleeding turns can accumulate, 1 turn of Bleeding cancels out 1 turn of Vitality. Bleeding ignores armor.\n <span class=\"keyword\">Charge:</span> The number of times an Order ability can be used. Only cards with Charge: X can gain additional Charges.\n <span class=\"keyword\">Armor:</span> Protects the unit from damage. This value doesn't count towards your score and/or the unit's power.",
+    "flavor": "Pledge your allegiance to our Emperor, Emhyr var Emreis… or die."
+  },{
+    "id": {
+      "art": 1778,
+      "card": 202248,
+      "audio": 1680
+    },
+    "attributes": {
+      "set": "CrimsonCurse",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 1,
+      "reach": 0,
+      "artist": "Valeriy Vegera",
+      "rarity": "Rare",
+      "faction": "Nilfgaard",
+      "related": "",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "Duchess' Informant",
+    "category": "Human, Agent",
+    "ability": "Disloyal.\nDeploy: Spawn and play a base copy of a non-Disloyal bronze enemy unit.\n",
+    "ability_html": "<span class=\"keyword disloyal\">Disloyal</span>.\n<span class=\"keyword deploy\">Deploy</span>: <span class=\"keyword spawn\">Spawn</span> and play a base copy of a non-<span class=\"keyword disloyal\">Disloyal</span> bronze enemy unit.\n",
+    "keyword_html": "<span class=\"keyword\">Disloyal:</span> This card is played on the opposite side of the battlefield, then gains Spying.\n <span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Spawn:</span> Add a card to the game.",
+    "flavor": "Anna Henrietta wakes every morn to the tune of her songbirds."
+  },{
+    "id": {
+      "art": 1320,
+      "card": 162315,
+      "audio": 1297
+    },
+    "attributes": {
+      "set": "BaseSet",
+      "type": "Special",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 0,
+      "reach": 0,
+      "artist": "Grafit Studio",
+      "rarity": "Rare",
+      "faction": "Nilfgaard",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Imperial Diplomacy",
+    "category": "Tactic",
+    "ability": "Create and play a bronze card from your opponent's faction.\n",
+    "ability_html": "<span class=\"keyword create\">Create</span> and play a bronze card from your opponent's faction.\n",
+    "keyword_html": "<span class=\"keyword\">Create:</span> Spawn one of three randomly selected cards from the specified source.",
+    "flavor": "A spy? No, that's saying far too much. I consider myself more of an observer."
+  },{
+    "id": {
+      "art": 1530,
+      "card": 201610,
+      "audio": 1526
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 5,
+      "reach": 0,
+      "artist": "Bryan Sola",
+      "rarity": "Common",
+      "faction": "Nilfgaard",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Slave Infantry",
+    "category": "Human, Soldier",
+    "ability": "Deploy: Transform an allied unit into Slave Infantry.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span>: Transform an allied unit into Slave Infantry.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.",
+    "flavor": "A free man's got a choice. A slave's choices are made for him."
+  },{
+    "id": {
+      "art": 1422,
+      "card": 202244,
+      "audio": 1676
+    },
+    "attributes": {
+      "set": "CrimsonCurse",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 5,
+      "reach": 0,
+      "artist": "Bruno Biazzoto",
+      "rarity": "Common",
+      "faction": "Nilfgaard",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Ducal Guard",
+    "category": "Human, Soldier",
+    "ability": "Flanking.\nAt the end of your turn, boost self by 1 if you used your leader ability this turn.\n",
+    "ability_html": "<span class=\"keyword flanking\">Flanking</span>.\nAt the end of your turn, boost self by 1 if you used your leader ability this turn.\n",
+    "keyword_html": "<b><span class=\"keyword\">Flanking:</span></b> If this unit is adjacent to only one card: on your Melee row, its end of turn ability is triggered twice; on your Ranged row, gain 1 Armor at the end of your turn.",
+    "flavor": "And whatever you do, never, EVER, mention the duchess's sister. Right, so... Welcome to Her Majesty's royal guard!"
+  },{
+    "id": {
+      "art": 1312,
+      "card": 162307,
+      "audio": 1275
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "Nemanja Stankovic",
+      "rarity": "Rare",
+      "faction": "Nilfgaard",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Impera Brigade",
+    "category": "Human, Soldier",
+    "ability": "Deploy: Damage all Spying units on the opposite row by 1.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span>: Damage all <span class=\"keyword spying\">Spying</span> units on the opposite row by 1.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Spying:</span> Status with no additional effect. Can be used by other cards and abilities.",
+    "flavor": "The Impera Brigade never surrenders. Ever."
+  },{
+    "id": {
+      "art": 1317,
+      "card": 162312,
+      "audio": 1278
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 3,
+      "reach": 0,
+      "artist": "Bruno Biazotto",
+      "rarity": "Common",
+      "faction": "Nilfgaard",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Alba Spearman",
+    "category": "Human, Soldier",
+    "ability": "Deploy: Damage 2 enemy units by the number of statuses on units adjacent to the targets.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span>: Damage 2 enemy units by the number of statuses on units adjacent to the targets.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.",
+    "flavor": "Death and glory!"
+  },{
+    "id": {
+      "art": 1959,
+      "card": 202453,
+      "audio": 1854
+    },
+    "attributes": {
+      "set": "Iron Judgment",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 3,
+      "reach": 0,
+      "artist": "Manuel Castanon",
+      "rarity": "Common",
+      "faction": "Nilfgaard",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Ard Feainn Heavy Cavalry",
+    "category": "Human, Soldier",
+    "ability": "Flanking.\nAt the end of your turn, gain 1 Armor.\nRanged: When this unit reaches 5 Armor, move self to the Melee row.\nBarricade (Melee): Whenever your opponent plays a unit on their side of the battlefield, lose all Armor and damage it by the same amount, then Lock self.\n",
+    "ability_html": "<span class=\"keyword flanking\">Flanking</span>.\nAt the end of your turn, gain 1 <span class=\"keyword armor\">Armor</span>.\n<span class=\"keyword ranged\">Ranged</span>: When this unit reaches 5 <span class=\"keyword armor\">Armor</span>, move self to the <span class=\"keyword melee\">Melee</span> row.\n<span class=\"keyword barricade\">Barricade</span> (<span class=\"keyword melee\">Melee</span>): Whenever your opponent plays a unit on their side of the battlefield, lose all <span class=\"keyword armor\">Armor</span> and damage it by the same amount, then <span class=\"keyword lock\">Lock</span> self.\n",
+    "keyword_html": "<b><span class=\"keyword\">Flanking:</span></b> If this unit is adjacent to only one card: on your Melee row, its end of turn ability is triggered twice; on your Ranged row, gain 1 Armor at the end of your turn.\n <span class=\"keyword\">Armor:</span> Protects the unit from damage. This value doesn't count towards your score and/or the unit's power.\n <span class=\"keyword\">Ranged:</span> This ability can only be used while on the ranged row.\n <span class=\"keyword\">Melee:</span> This ability can only be used while on the melee row.\n <span class=\"keyword\">Barricade:</span> Trigger this ability if the unit has armor.\n <span class=\"keyword\">Lock:</span> Status that disables a unit's abilities.",
+    "flavor": "When Emhyr declared that his cavalry would stomp his enemies into the mud, we thought he was speaking metaphorically. We were wrong."
+  },{
+    "id": {
+      "art": 1319,
+      "card": 162314,
+      "audio": 1280
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 1,
+      "reach": 0,
+      "artist": "Bruno Biazotto",
+      "rarity": "Rare",
+      "faction": "Nilfgaard",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Emissary",
+    "category": "Human, Agent",
+    "ability": "Disloyal.\nDeploy: Boost an allied unit by 7.\n",
+    "ability_html": "<span class=\"keyword disloyal\">Disloyal</span>.\n<span class=\"keyword deploy\">Deploy</span>: Boost an allied unit by 7.\n",
+    "keyword_html": "<span class=\"keyword\">Disloyal:</span> This card is played on the opposite side of the battlefield, then gains Spying.\n <span class=\"keyword\">Deploy:</span> Trigger this ability when played.",
+    "flavor": "But… but there's no justice in it! One does not kill the messenger!"
+  }
+]

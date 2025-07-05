@@ -1,0 +1,627 @@
+[
+  {
+    "id": {
+      "art": 2210,
+      "card": 202675,
+      "audio": 2051
+    },
+    "attributes": {
+      "set": "Master Mirror",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Gold",
+      "power": 6,
+      "reach": 0,
+      "artist": "Sandra Chlewinska",
+      "rarity": "Epic",
+      "faction": "Scoiatael",
+      "related": "202682",
+      "provision": 9,
+      "factionSecondary": ""
+    },
+    "name": "Freixenet",
+    "category": "Human",
+    "ability": "Zeal. Order (Ranged): Spawn a Young Dryad on this row.\nCooldown: 4\nDevotion: At the end of your turn, reduce the Cooldown by the duration of Vitality on self.\n",
+    "ability_html": "<span class=\"keyword zeal\">Zeal</span>. <span class=\"keyword order\">Order</span> (<span class=\"keyword ranged\">Ranged</span>): <span class=\"keyword spawn\">Spawn</span> a Young Dryad on this row.\n<span class=\"keyword cooldown\">Cooldown</span>: 4\n<span class=\"keyword devotion\">Devotion</span>: At the end of your turn, reduce the <span class=\"keyword cooldown\">Cooldown</span> by the duration of <span class=\"keyword vitality\">Vitality</span> on self.\n",
+    "keyword_html": "<span class=\"keyword\">Zeal:</span> An Order ability can be used on the same turn the card is placed on the battlefield.\n <span class=\"keyword\">Order:</span> An ability triggered manually by the player. Cards with Order cannot be used for 1 turn after being placed on the battlefield.\n <span class=\"keyword\">Ranged:</span> This ability can only be used while on the ranged row.\n <span class=\"keyword\">Spawn:</span> Add a card to the game.\n <span class=\"keyword\">Cooldown:</span> The number of turns before an Order or Fee ability can be reused.\n <span class=\"keyword\">Devotion:</span> Trigger this ability if your starting deck has no neutral cards.\n <span class=\"keyword\">Vitality:</span> Status that boosts this unit by 1 on its turn end. Note: Vitality turns can accumulate; 1 turn of Vitality cancels out 1 turn of Bleeding.",
+    "flavor": "He was only meant to be a breeding stud to her. But in the end, they fell in love regardless."
+  },{
+    "id": {
+      "art": 1003,
+      "card": 200030,
+      "audio": 1181
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Gold",
+      "power": 4,
+      "reach": 0,
+      "artist": "Lorenzo Mastroianni",
+      "rarity": "Epic",
+      "faction": "Scoiatael",
+      "related": "",
+      "provision": 9,
+      "factionSecondary": ""
+    },
+    "name": "Milaen",
+    "category": "Elf",
+    "ability": "Deploy (Melee): Damage an enemy unit by 4.\nDeploy (Ranged): Damage 4 enemy units by 1.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span> (<span class=\"keyword melee\">Melee</span>): Damage an enemy unit by 4.\n<span class=\"keyword deploy\">Deploy</span> (<span class=\"keyword ranged\">Ranged</span>): Damage 4 enemy units by 1.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Melee:</span> This ability can only be used while on the melee row.\n <span class=\"keyword\">Ranged:</span> This ability can only be used while on the ranged row.",
+    "flavor": "The old baron treated poachers mercilessly. Luckily for Milaen, the old baron was dead and his men, desperate outlaws."
+  },{
+    "id": {
+      "art": 1207,
+      "card": 142212,
+      "audio": 1097
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Gold",
+      "power": 6,
+      "reach": 0,
+      "artist": "Paweł Świeżak",
+      "rarity": "Epic",
+      "faction": "Scoiatael",
+      "related": "",
+      "provision": 8,
+      "factionSecondary": ""
+    },
+    "name": "Sheldon Skaggs",
+    "category": "Dwarf, Soldier",
+    "ability": "Deploy (Melee): Damage an enemy unit by the amount Sheldon is boosted.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span> (<span class=\"keyword melee\">Melee</span>): Damage an enemy unit by the amount Sheldon is boosted.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Melee:</span> This ability can only be used while on the melee row.",
+    "flavor": "I was there, on the front lines! Right where the fightin' was the thickest!"
+  },{
+    "id": {
+      "art": 1630,
+      "card": 201676,
+      "audio": 1472
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Gold",
+      "power": 5,
+      "reach": 0,
+      "artist": "Lorenzo Mastroianni",
+      "rarity": "Epic",
+      "faction": "Scoiatael",
+      "related": "",
+      "provision": 8,
+      "factionSecondary": ""
+    },
+    "name": "Pavko Gale",
+    "category": "Human, Bandit",
+    "ability": "Harmony.\nOrder (Ranged): Damage a unit by 1. If you control only non-Neutral units, damage by 2 instead.\nCooldown: 1\n",
+    "ability_html": "<span class=\"keyword harmony\">Harmony</span>.\n<span class=\"keyword order\">Order</span> (<span class=\"keyword ranged\">Ranged</span>): Damage a unit by 1. If you control only non-Neutral units, damage by 2 instead.\n<span class=\"keyword cooldown\">Cooldown</span>: 1\n",
+    "keyword_html": "<span class=\"keyword\">Harmony:</span> Boost self by 1 or the specified amount whenever you play a non-Neutral unit, whose primary category is unique among all of your units.\n <span class=\"keyword\">Order:</span> An ability triggered manually by the player. Cards with Order cannot be used for 1 turn after being placed on the battlefield.\n <span class=\"keyword\">Ranged:</span> This ability can only be used while on the ranged row.\n <span class=\"keyword\">Cooldown:</span> The number of turns before an Order or Fee ability can be reused.",
+    "flavor": "No one smuggled as much food to the elves of the Blue Mountains as Gale. He'd bring them sacks of turnips and, prized most of all, leeks."
+  },{
+    "id": {
+      "art": 2211,
+      "card": 202676,
+      "audio": 2050
+    },
+    "attributes": {
+      "set": "Master Mirror",
+      "type": "Unit",
+      "armor": 1,
+      "color": "Gold",
+      "power": 5,
+      "reach": 0,
+      "artist": "Karol Bem",
+      "rarity": "Epic",
+      "faction": "Scoiatael",
+      "related": "",
+      "provision": 7,
+      "factionSecondary": ""
+    },
+    "name": "Dunca",
+    "category": "Dryad, Warrior",
+    "ability": "Veil.\nZeal. Order (Melee): Damage an enemy unit by 3. \nAt the end of your turn, if the Order is not used, boost a random non-Neutral unit in your hand by 1.\n",
+    "ability_html": "<span class=\"keyword veil\">Veil</span>.\n<span class=\"keyword zeal\">Zeal</span>. <span class=\"keyword order\">Order</span> (<span class=\"keyword melee\">Melee</span>): Damage an enemy unit by 3. \nAt the end of your turn, if the <span class=\"keyword order\">Order</span> is not used, boost a random non-Neutral unit in your hand by 1.\n",
+    "keyword_html": "<span class=\"keyword\">Veil:</span> Status that prevents unit from gaining other statuses.\n <span class=\"keyword\">Zeal:</span> An Order ability can be used on the same turn the card is placed on the battlefield.\n <span class=\"keyword\">Order:</span> An ability triggered manually by the player. Cards with Order cannot be used for 1 turn after being placed on the battlefield.\n <span class=\"keyword\">Melee:</span> This ability can only be used while on the melee row.",
+    "flavor": "She does no warning shot, always aims to kill. No mercy, even for the little ones."
+  },{
+    "id": {
+      "art": 1404,
+      "card": 202267,
+      "audio": 1700
+    },
+    "attributes": {
+      "set": "CrimsonCurse",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Gold",
+      "power": 4,
+      "reach": 0,
+      "artist": "Lorenzo Mastroianni",
+      "rarity": "Epic",
+      "faction": "Scoiatael",
+      "related": "",
+      "provision": 7,
+      "factionSecondary": ""
+    },
+    "name": "Sirssa",
+    "category": "Dryad, Warrior",
+    "ability": "Harmony.\nDeploy: Damage an enemy unit by 2 then boost a random unit in your hand by 2.\nDeathblow: Boost a unit in your hand instead.\n",
+    "ability_html": "<span class=\"keyword harmony\">Harmony</span>.\n<span class=\"keyword deploy\">Deploy</span>: Damage an enemy unit by 2 then boost a random unit in your hand by 2.\n<span class=\"keyword deathblow\">Deathblow</span>: Boost a unit in your hand instead.\n",
+    "keyword_html": "<span class=\"keyword\">Harmony:</span> Boost self by 1 or the specified amount whenever you play a non-Neutral unit, whose primary category is unique among all of your units.\n <span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Deathblow:</span> Trigger this ability if this card destroys a unit.",
+    "flavor": "With silent grace, a dark-haired dryad nimbly descended a spiralling cascade of mushrooms along the tree's trunk, her lithe body camouflaged with fallen leaves."
+  },{
+    "id": {
+      "art": 1197,
+      "card": 142202,
+      "audio": 1116
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Gold",
+      "power": 6,
+      "reach": 0,
+      "artist": "Anna Podedworna",
+      "rarity": "Epic",
+      "faction": "Scoiatael",
+      "related": "",
+      "provision": 6,
+      "factionSecondary": ""
+    },
+    "name": "Ida Emean aep Sivney",
+    "category": "Elf, Mage",
+    "ability": "Deploy (Melee): Purify a unit.\nDeploy (Ranged): Give an allied unit Vitality (3).\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span> (<span class=\"keyword melee\">Melee</span>): <span class=\"keyword purify\">Purify</span> a unit.\n<span class=\"keyword deploy\">Deploy</span> (<span class=\"keyword ranged\">Ranged</span>): Give an allied unit <span class=\"keyword vitality\">Vitality</span> (3).\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Melee:</span> This ability can only be used while on the melee row.\n <span class=\"keyword\">Purify:</span> Remove all statuses.\n <span class=\"keyword\">Ranged:</span> This ability can only be used while on the ranged row.\n <span class=\"keyword\">Vitality:</span> Status that boosts this unit by 1 on its turn end. Note: Vitality turns can accumulate; 1 turn of Vitality cancels out 1 turn of Bleeding.",
+    "flavor": "I am a Sage. My power lies in possessing knowledge. Not sharing it."
+  },{
+    "id": {
+      "art": 1229,
+      "card": 143301,
+      "audio": 1286
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Artifact",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 0,
+      "reach": 0,
+      "artist": "Anna Podedworna",
+      "rarity": "Rare",
+      "faction": "Scoiatael",
+      "related": "",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "Incinerating Trap",
+    "category": "Trap",
+    "ability": "Ambush: When your opponent plays a unit on their side of the battlefield, damage it by 5.\nSpring: Damage a unit by 3.\n",
+    "ability_html": "<span class=\"keyword ambush\">Ambush</span>: When your opponent plays a unit on their side of the battlefield, damage it by 5.\n<span class=\"keyword Spring\">Spring</span>: Damage a unit by 3.\n",
+    "keyword_html": "<span class=\"keyword\">Ambush:</span> Played face down, then flips over when the ability's condition is met.\n <span class=\"keyword\">Spring:</span> Manual activation of a face-down Trap. Spring is activated automatically on a Trap played next to an Artifact. Cards with Spring are flipped over after use.",
+    "flavor": "Careful…! One more step and you'll be turned into molten glass."
+  },{
+    "id": {
+      "art": 2215,
+      "card": 202679,
+      "audio": 2047
+    },
+    "attributes": {
+      "set": "Master Mirror",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 5,
+      "reach": 0,
+      "artist": "Katarzyna Bekus",
+      "rarity": "Rare",
+      "faction": "Scoiatael",
+      "related": "",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "Duén Canell Guardian",
+    "category": "Dryad, Warrior",
+    "ability": "Veil.\nSymbiosis.\nOrder: Damage an enemy unit by 2.\n",
+    "ability_html": "<span class=\"keyword veil\">Veil</span>.\n<span class=\"keyword symbiosis\">Symbiosis</span>.\n<span class=\"keyword order\">Order</span>: Damage an enemy unit by 2.\n",
+    "keyword_html": "<span class=\"keyword\">Veil:</span> Status that prevents unit from gaining other statuses.\n <span class=\"keyword\">Symbiosis:</span> Whenever you play a Nature card, Spawn a Wandering Treant on a random allied row and set its power equal to number of Symbioses you control.\n <span class=\"keyword\">Order:</span> An ability triggered manually by the player. Cards with Order cannot be used for 1 turn after being placed on the battlefield.",
+    "flavor": "You have conquered the world, d'hoine, you are everywhere, everywhere you bring with you what you call progress. But we don't want you or your progress here."
+  },{
+    "id": {
+      "art": 1346,
+      "card": 200042,
+      "audio": 1369
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "Lorenzo Mastroianni",
+      "rarity": "Rare",
+      "faction": "Scoiatael",
+      "related": "",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "Mahakam Marauder",
+    "category": "Dwarf, Warrior",
+    "ability": "Deploy: Gain Vitality equal to an allied unit's Armor.\nBarricade: Boost self by that amount instead.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span>: Gain <span class=\"keyword vitality\">Vitality</span> equal to an allied unit's <span class=\"keyword armor\">Armor</span>.\n<span class=\"keyword barricade\">Barricade</span>: Boost self by that amount instead.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Vitality:</span> Status that boosts this unit by 1 on its turn end. Note: Vitality turns can accumulate; 1 turn of Vitality cancels out 1 turn of Bleeding.\n <span class=\"keyword\">Armor:</span> Protects the unit from damage. This value doesn't count towards your score and/or the unit's power.\n <span class=\"keyword\">Barricade:</span> Trigger this ability if the unit has armor.",
+    "flavor": "Hunting on Mahakam's craggy cliffs is not particularly easy… but nor are dwarves particularly put off by danger."
+  },{
+    "id": {
+      "art": 2213,
+      "card": 202678,
+      "audio": 2048
+    },
+    "attributes": {
+      "set": "Master Mirror",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "Katarzyna Bekus",
+      "rarity": "Rare",
+      "faction": "Scoiatael",
+      "related": "",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "Hamadryad",
+    "category": "Dryad",
+    "ability": "Symbiosis.\nAt the end of your turn, if this unit has Vitality, boost self by 1.\n",
+    "ability_html": "<span class=\"keyword symbiosis\">Symbiosis</span>.\nAt the end of your turn, if this unit has <span class=\"keyword vitality\">Vitality</span>, boost self by 1.\n",
+    "keyword_html": "<span class=\"keyword\">Symbiosis:</span> Whenever you play a Nature card, Spawn a Wandering Treant on a random allied row and set its power equal to number of Symbioses you control.\n <span class=\"keyword\">Vitality:</span> Status that boosts this unit by 1 on its turn end. Note: Vitality turns can accumulate; 1 turn of Vitality cancels out 1 turn of Bleeding.",
+    "flavor": "Hamadryads form a deep life-long bond with their tree – and its squirrels, of course."
+  },{
+    "id": {
+      "art": 2018,
+      "card": 202540,
+      "audio": 1995
+    },
+    "attributes": {
+      "set": "Merchants of Ofir",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 3,
+      "reach": 0,
+      "artist": "Karol Bem",
+      "rarity": "Common",
+      "faction": "Scoiatael",
+      "related": "",
+      "provision": 5,
+      "factionSecondary": ""
+    },
+    "name": "Trained Hawk",
+    "category": "Beast",
+    "ability": "Harmony.\nDeploy (Melee): Damage an enemy unit by 2.\nDeploy (Ranged): Move a unit to the other row.\n",
+    "ability_html": "<span class=\"keyword harmony\">Harmony</span>.\n<span class=\"keyword deploy\">Deploy</span> (<span class=\"keyword melee\">Melee</span>): Damage an enemy unit by 2.\n<span class=\"keyword deploy\">Deploy</span> (<span class=\"keyword ranged\">Ranged</span>): Move a unit to the other row.\n",
+    "keyword_html": "<span class=\"keyword\">Harmony:</span> Boost self by 1 or the specified amount whenever you play a non-Neutral unit, whose primary category is unique among all of your units.\n <span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Melee:</span> This ability can only be used while on the melee row.\n <span class=\"keyword\">Ranged:</span> This ability can only be used while on the ranged row.",
+    "flavor": "I whistle once, it comes back. I whistle twice, it comes back with your eyes in its talons."
+  },{
+    "id": {
+      "art": 1724,
+      "card": 202269,
+      "audio": 1705
+    },
+    "attributes": {
+      "set": "CrimsonCurse",
+      "type": "Special",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 0,
+      "reach": 0,
+      "artist": "Diego de Almeida",
+      "rarity": "Common",
+      "faction": "Scoiatael",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Dryad's Caress",
+    "category": "Nature",
+    "ability": "Purify an allied unit and boost it by 3. If you control a Dryad, also give it Vitality (3).\n",
+    "ability_html": "<span class=\"keyword purify\">Purify</span> an allied unit and boost it by 3. If you control a Dryad, also give it <span class=\"keyword vitality\">Vitality</span> (3).\n",
+    "keyword_html": "<span class=\"keyword\">Purify:</span> Remove all statuses.\n <span class=\"keyword\">Vitality:</span> Status that boosts this unit by 1 on its turn end. Note: Vitality turns can accumulate; 1 turn of Vitality cancels out 1 turn of Bleeding.",
+    "flavor": "Shh, shh... Evelienn va maeth, elaine blath..."
+  },{
+    "id": {
+      "art": 2212,
+      "card": 202677,
+      "audio": 2049
+    },
+    "attributes": {
+      "set": "Master Mirror",
+      "type": "Special",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 0,
+      "reach": 0,
+      "artist": "Oleksandr Kozachenko",
+      "rarity": "Rare",
+      "faction": "Scoiatael",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Circle of Life",
+    "category": "Nature",
+    "ability": "Damage an enemy unit by 3, then boost a random non-Neutral unit in your hand by 2.\nDeathblow: Boost a non-Neutral unit in your hand instead.\n",
+    "ability_html": "Damage an enemy unit by 3, then boost a random non-Neutral unit in your hand by 2.\n<span class=\"keyword deathblow\">Deathblow</span>: Boost a non-Neutral unit in your hand instead.\n",
+    "keyword_html": "<span class=\"keyword\">Deathblow:</span> Trigger this ability if this card destroys a unit.",
+    "flavor": "Those who want to destroy Brokilon, who try to burn its trees and kill all the living things in it, will soon enough become nourishment for its soil."
+  },{
+    "id": {
+      "art": 1487,
+      "card": 200293,
+      "audio": 1395
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 5,
+      "reach": 0,
+      "artist": "Grafit Studio",
+      "rarity": "Rare",
+      "faction": "Scoiatael",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Dwarven Agitator",
+    "category": "Dwarf, Bandit",
+    "ability": "Deploy: Give 1 Armor to 2 Dwarves in your hand.\nWhenever you play a Dwarf, give it 1 Armor.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span>: Give 1 <span class=\"keyword armor\">Armor</span> to 2 Dwarves in your hand.\nWhenever you play a Dwarf, give it 1 <span class=\"keyword armor\">Armor</span>.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Armor:</span> Protects the unit from damage. This value doesn't count towards your score and/or the unit's power.",
+    "flavor": "Mark me words, if ye dinnae get up off yer arses, humans're gonnae come here an' steal our wenches!"
+  },{
+    "id": {
+      "art": 1200,
+      "card": 142205,
+      "audio": 1203
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "Bartłomiej Gaweł",
+      "rarity": "Common",
+      "faction": "Scoiatael",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Vrihedd Dragoon",
+    "category": "Elf, Soldier",
+    "ability": "Deploy: Move a unit to the other row. If it's an enemy, damage it by 1. If it's allied, boost it by 2.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span>: Move a unit to the other row. If it's an enemy, damage it by 1. If it's allied, boost it by 2.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.",
+    "flavor": "Most terrible things I've witnessed? The Catriona plague, the razing of Vengerberg and the charge of the Vrihedd Dragoons."
+  },{
+    "id": {
+      "art": 1212,
+      "card": 142303,
+      "audio": 1120
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "Grafit Studio",
+      "rarity": "Common",
+      "faction": "Scoiatael",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Vrihedd Officer",
+    "category": "Elf, Soldier",
+    "ability": "Deploy (Melee): Damage an enemy unit by 2.\nDeploy (Ranged): Boost an allied unit by 2.\nBonded: Combine both abilities instead.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span> (<span class=\"keyword melee\">Melee</span>): Damage an enemy unit by 2.\n<span class=\"keyword deploy\">Deploy</span> (<span class=\"keyword ranged\">Ranged</span>): Boost an allied unit by 2.\n<span class=\"keyword bonded\">Bonded</span>: Combine both abilities instead.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Melee:</span> This ability can only be used while on the melee row.\n <span class=\"keyword\">Ranged:</span> This ability can only be used while on the ranged row.\n <span class=\"keyword\">Bonded:</span> Trigger this ability if you control a copy of this card.",
+    "flavor": "Hatred burns brighter than any fire, and cuts deeper than any blade."
+  },{
+    "id": {
+      "art": 1215,
+      "card": 142306,
+      "audio": 1123
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "Grafit Studio",
+      "rarity": "Common",
+      "faction": "Scoiatael",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Mahakam Defender",
+    "category": "Dwarf, Soldier",
+    "ability": "Barricade: At the end of your turn, boost self by 1.\n",
+    "ability_html": "<span class=\"keyword barricade\">Barricade</span>: At the end of your turn, boost self by 1.\n",
+    "keyword_html": "<span class=\"keyword\">Barricade:</span> Trigger this ability if the unit has armor.",
+    "flavor": "I'm telling ye, we're born fer battle – we slash straight at their knees!"
+  },{
+    "id": {
+      "art": 1222,
+      "card": 142313,
+      "audio": 1226
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "Bryan Sola",
+      "rarity": "Common",
+      "faction": "Scoiatael",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Elven Wardancer",
+    "category": "Elf, Agent",
+    "ability": "Deploy: Damage an enemy unit by 1. If Elven Wardancer is already boosted, damage by 3 instead.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span>: Damage an enemy unit by 1. If Elven Wardancer is already boosted, damage by 3 instead.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.",
+    "flavor": "You mean to say the she–elf danced amidst the fray? Have you lost your mind, corporal?!"
+  },{
+    "id": {
+      "art": 1592,
+      "card": 201559,
+      "audio": 1473
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "Bartłomiej Gaweł",
+      "rarity": "Rare",
+      "faction": "Scoiatael",
+      "related": "201559",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Mahakam Volunteers",
+    "category": "Dwarf, Soldier",
+    "ability": "Deploy: If you control a Dwarf, Summon all copies of self from your deck to this row.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span>: If you control a Dwarf, <span class=\"keyword summon\">Summon</span> all copies of self from your deck to this row.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Summon:</span> Move automatically to the battlefield (not considered played).",
+    "flavor": "Hoooahhh! Hoooaahhh! Hooo! Prepare yer hineys, clowns! Soon we'll be comin' 'round! Tae kick 'em till ye've feet for frowns!"
+  },{
+    "id": {
+      "art": 1722,
+      "card": 202270,
+      "audio": 1706
+    },
+    "attributes": {
+      "set": "CrimsonCurse",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "Diego de Almeida",
+      "rarity": "Common",
+      "faction": "Scoiatael",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Dryad Grovekeeper",
+    "category": "Dryad",
+    "ability": "Deploy: Gain Vitality (2).\nBonded: Gain Vitality (4) instead.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span>: Gain <span class=\"keyword vitality\">Vitality</span> (2).\n<span class=\"keyword bonded\">Bonded</span>: Gain <span class=\"keyword vitality\">Vitality</span> (4) instead.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Vitality:</span> Status that boosts this unit by 1 on its turn end. Note: Vitality turns can accumulate; 1 turn of Vitality cancels out 1 turn of Bleeding.\n <span class=\"keyword\">Bonded:</span> Trigger this ability if you control a copy of this card.",
+    "flavor": "Is it true? That flowers in Brokilon bloom seven times a year? But... How can that be?"
+  },{
+    "id": {
+      "art": 2216,
+      "card": 202681,
+      "audio": 2045
+    },
+    "attributes": {
+      "set": "Master Mirror",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 4,
+      "reach": 0,
+      "artist": "Zuzanna Kapuścińska",
+      "rarity": "Common",
+      "faction": "Scoiatael",
+      "related": "202682",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Abandoned Girl",
+    "category": "Human",
+    "ability": "Order: Transform into a Young Dryad without changing power, then gain Vitality equal to the number of Dryads on this row.\n",
+    "ability_html": "<span class=\"keyword order\">Order</span>: Transform into a Young Dryad without changing power, then gain <span class=\"keyword vitality\">Vitality</span> equal to the number of Dryads on this row.\n",
+    "keyword_html": "<span class=\"keyword\">Order:</span> An ability triggered manually by the player. Cards with Order cannot be used for 1 turn after being placed on the battlefield.\n <span class=\"keyword\">Vitality:</span> Status that boosts this unit by 1 on its turn end. Note: Vitality turns can accumulate; 1 turn of Vitality cancels out 1 turn of Bleeding.",
+    "flavor": "People believe that sick girls will spread their illness among the dryads, but in reality, Brokilon protects its children. Abandoned ones, too."
+  },{
+    "id": {
+      "art": 1944,
+      "card": 202475,
+      "audio": 1874
+    },
+    "attributes": {
+      "set": "Iron Judgment",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 3,
+      "reach": 0,
+      "artist": "Aleksandra Wojtas",
+      "rarity": "Common",
+      "faction": "Scoiatael",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Dryad Enchantress",
+    "category": "Dryad",
+    "ability": "Symbiosis.\nDeploy (Melee): Give an allied unit 4 Armor.\nDeploy (Ranged): Give an allied unit Vitality (4).\n",
+    "ability_html": "<span class=\"keyword symbiosis\">Symbiosis</span>.\n<span class=\"keyword deploy\">Deploy</span> (<span class=\"keyword melee\">Melee</span>): Give an allied unit 4 <span class=\"keyword armor\">Armor</span>.\n<span class=\"keyword deploy\">Deploy</span> (<span class=\"keyword ranged\">Ranged</span>): Give an allied unit <span class=\"keyword vitality\">Vitality</span> (4).\n",
+    "keyword_html": "<span class=\"keyword\">Symbiosis:</span> Whenever you play a Nature card, Spawn a Wandering Treant on a random allied row and set its power equal to number of Symbioses you control.\n <span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Melee:</span> This ability can only be used while on the melee row.\n <span class=\"keyword\">Armor:</span> Protects the unit from damage. This value doesn't count towards your score and/or the unit's power.\n <span class=\"keyword\">Ranged:</span> This ability can only be used while on the ranged row.\n <span class=\"keyword\">Vitality:</span> Status that boosts this unit by 1 on its turn end. Note: Vitality turns can accumulate; 1 turn of Vitality cancels out 1 turn of Bleeding.",
+    "flavor": "The dryads used to stay on the sidelines, avoiding the conflict between the races. But times change…"
+  },{
+    "id": {
+      "art": 1214,
+      "card": 142305,
+      "audio": 1121
+    },
+    "attributes": {
+      "set": "Unmillable",
+      "type": "Unit",
+      "armor": 0,
+      "color": "Bronze",
+      "power": 1,
+      "reach": 0,
+      "artist": "Grafit Studio",
+      "rarity": "Common",
+      "faction": "Scoiatael",
+      "related": "",
+      "provision": 4,
+      "factionSecondary": ""
+    },
+    "name": "Dwarven Skirmisher",
+    "category": "Dwarf, Soldier",
+    "ability": "Deploy (Melee): Damage an enemy unit by 3. If it survived, gain 1 Armor.\nOrder (Barricade): Damage an enemy unit by 3.\n",
+    "ability_html": "<span class=\"keyword deploy\">Deploy</span> (<span class=\"keyword melee\">Melee</span>): Damage an enemy unit by 3. If it survived, gain 1 <span class=\"keyword armor\">Armor</span>.\n<span class=\"keyword order\">Order</span> (<span class=\"keyword barricade\">Barricade</span>): Damage an enemy unit by 3.\n",
+    "keyword_html": "<span class=\"keyword\">Deploy:</span> Trigger this ability when played.\n <span class=\"keyword\">Melee:</span> This ability can only be used while on the melee row.\n <span class=\"keyword\">Armor:</span> Protects the unit from damage. This value doesn't count towards your score and/or the unit's power.\n <span class=\"keyword\">Order:</span> An ability triggered manually by the player. Cards with Order cannot be used for 1 turn after being placed on the battlefield.\n <span class=\"keyword\">Barricade:</span> Trigger this ability if the unit has armor.",
+    "flavor": "Worked a pickaxe all me life. Battleaxe won't be any trouble."
+  }
+]
