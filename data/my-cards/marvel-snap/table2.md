@@ -20,6 +20,7 @@
 |Medusa|1|2|2|
 |Mister Fantastic|1|3|1|
 |Misty Knight|1|1|2|
+|Multiple Man|1|2|3|
 |Nightcrawler|1|1|2|
 |Odin|1|6|6|
 |The Punisher|1|3|3|
